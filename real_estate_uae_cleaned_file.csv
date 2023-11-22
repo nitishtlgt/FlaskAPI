@@ -1,0 +1,833 @@
+currency,rent,frequency,property_type,property_purpose,property_furnishing,date_added_on,place_name,beds,baths,area,owner
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"Mayan 1, Mayan, Yas Island, Abu Dhabi",1 Bed,2 Baths,898 sqft,Chidiac Charbel
+AED,"67,999",Yearly,Apartment,For Rent,Unfurnished,5 October 2023,"Geepas Tower, Arjan, Dubai",1 Bed,2 Baths,990 sqft,Muhammad Wahab Sharif
+AED,"52,999",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"Rohy, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,1 Bath,880 sqft,Ammar Safaa Hashim
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,4 October 2023,"Al Waseem Residences, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,914 sqft,Anwar Sadiq
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Vincitore Palacio, Arjan, Dubai",1 Bed,2 Baths,912 sqft,Asif  Rafiq
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Vida Residences Dubai Marina, Dubai Marina, Dubai",1 Bed,2 Baths,816 sqft,Charlton Harris
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,7 November 2023,"Cayan Tower, Dubai Marina, Dubai",1 Bed,2 Baths,875 sqft,Abdul  Rehman Nazir Ahmad
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Breeze 1, Breeze at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,802 sqft,Waleed Khalid
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Breeze 1, Breeze at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,986 sqft,Waleed Khalid
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"Breeze 1, Breeze at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,986 sqft,Asif Ahmed Khan
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"Miska 1, Miska, Old Town, Downtown Dubai, Dubai",1 Bed,1 Bath,903 sqft,Asif Ahmed Khan
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,7 July 2023,"Miska 1, Miska, Old Town, Downtown Dubai, Dubai",1 Bed,1 Bath,903 sqft,Mukhtar Ahmed
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,2 March 2023,"Jasmine B, Jasmine, DAMAC Hills, Dubai",1 Bed,2 Baths,840 sqft,Abdul Hadi
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Jasmine B, Jasmine, DAMAC Hills, Dubai",1 Bed,2 Baths,840 sqft,Anastasia El hage
+AED,"135,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Golf Tower 3, Golf Tower, The Views, Dubai",1 Bed,2 Baths,991 sqft,Anastasia El hage
+AED,"81,999",Yearly,Apartment,For Rent,Furnished,20 October 2023,"Rigel Apartments, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,849 sqft,Nadine Smith
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,20 October 2023,"Pulse Smart Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,861 sqft,Nadine Smith
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,14 September 2023,"Pulse Smart Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,861 sqft,Sarah Hussain
+AED,"99,999",Yearly,Apartment,For Rent,Furnished,14 September 2023,"Creekside 18 Tower B, Creekside 18, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,860 sqft,Sarah Hussain
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Rigel Apartments, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,823 sqft,Abdul Muqtadir Malik
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,2 Baths,846 sqft,Abdul Muqtadir Malik
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,3 October 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,2 Baths,846 sqft,Abdul Muqtadir Malik
+AED,"59,990",Yearly,Apartment,For Rent,Furnished,3 October 2023,"Al Amir Building, Arjan, Dubai",1 Bed,2 Baths,950 sqft,Abdul Muqtadir Malik
+AED,"59,990",Yearly,Apartment,For Rent,Furnished,19 July 2023,"Al Amir Building, Arjan, Dubai",1 Bed,2 Baths,950 sqft,Abdul Muqtadir Malik
+AED,"135,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Maurya, The Grandeur Residences, Palm Jumeirah, Dubai",1 Bed,1 Bath,914 sqft,Mohd. Uzair
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,1 Bath,960 sqft,Basit Rehmat
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,1 Bath,960 sqft,Safia Lehbili
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Burj Views C, Burj Views, Downtown Dubai, Dubai",1 Bed,2 Baths,966 sqft,Safia Lehbili
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Burj Views C, Burj Views, Downtown Dubai, Dubai",1 Bed,2 Baths,966 sqft,Asif Sohaib Raja
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Al Ghozlan 1, Al Ghozlan, The Greens, Dubai",1 Bed,1 Bath,816 sqft,Asif Sohaib Raja
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Ghozlan 1, Al Ghozlan, The Greens, Dubai",1 Bed,1 Bath,816 sqft,Haya Ezzi
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"PG Upper House, Al Furjan, Dubai",1 Bed,2 Baths,972 sqft,Haya Ezzi
+AED,"80,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"La Riviera Apartments, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,830 sqft,Amber Edwards
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Alcove, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,865 sqft,Michael Cullen
+AED,"115,000",Yearly,Apartment,For Rent,Furnished,27 October 2023,"The Lofts East, The Lofts, Downtown Dubai, Dubai",1 Bed,2 Baths,914 sqft,Jitesh Jeswani
+AED,"194,999",Yearly,Apartment,For Rent,Furnished,27 October 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,847 sqft,Jitesh Jeswani
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,29 April 2023,"Residences 2, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,831 sqft,Muzafar Shahzad
+AED,"99,999",Yearly,Apartment,For Rent,Furnished,20 July 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,923 sqft,Muzafar Shahzad
+AED,"180,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Beach Isle Tower 1, Beach Isle, Emaar Beachfront, Dubai Harbour, Dubai",1 Bed,1 Bath,821 sqft,Eslam Eldifry
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Upper Crest (Burjside Terrace), Downtown Dubai, Dubai",1 Bed,2 Baths,900 sqft,Umar Zaman
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Bay Central (Central Tower), Bay Central, Dubai Marina, Dubai",1 Bed,2 Baths,857 sqft,Umar Zaman
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Bay Central (Central Tower), Bay Central, Dubai Marina, Dubai",1 Bed,2 Baths,857 sqft,Haroon Nasir
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Haroon Nasir
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Carmela Lazar Dela Cruz
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,5 October 2023,"Alpha Green Tower, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,941 sqft,Katie-Louise Thompson-Friend
+AED,"105,000",Yearly,Apartment,For Rent,Furnished,20 October 2023,"Alpha Green Tower, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,941 sqft,Manu Manoharan
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,20 October 2023,"Alpha Green Tower, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,1 Bath,900 sqft,Manu Manoharan
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,30 October 2023,"Alpha Green Tower, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,1 Bath,900 sqft,Manu Manoharan
+AED,"55,000",Yearly,Apartment,For Rent,Furnished,30 October 2023,"Oasis Tower 1, Dubai Sports City, Dubai",1 Bed,2 Baths,870 sqft,Manu Manoharan
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,16 October 2023,"Oasis Tower 1, Dubai Sports City, Dubai",1 Bed,2 Baths,870 sqft,Asif  Rafiq
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,19 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,960 sqft,Yasmin Quniebi
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,960 sqft,Mir Nofil Manzoor
+AED,"150,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Residences 3, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,831 sqft,Mir Nofil Manzoor
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Al Noor Building 2, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Mohammed Eliyas Hasan Khan
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Southwest Apartments 3, Southwest Apartments, Green Community West, Green Community, Dubai",1 Bed,2 Baths,940 sqft,Jayden Gibbons
+AED,"37,999",Yearly,Apartment,For Rent,Furnished,22 September 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Waqas Akhter
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,25 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,960 sqft,Asif Sharif
+AED,"128,500",Yearly,Apartment,For Rent,Furnished,19 September 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Usman Asim
+AED,"128,500",Yearly,Apartment,For Rent,Furnished,22 August 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Osama Mahmoud Saleh Bani Hani
+AED,"225,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"The Address Residences Dubai Opera Tower 2, The Address Residences Dubai Opera, Downtown Dubai, Dubai",1 Bed,2 Baths,802 sqft,Amir Amin
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,915 sqft,Amir Abro
+AED,"74,999",Yearly,Apartment,For Rent,Unfurnished,12 August 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,943 sqft,Mudasir Iqbal
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,8 July 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,915 sqft,Mudasir Iqbal
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,10 October 2023,"Seven Palm, Palm Jumeirah, Dubai",1 Bed,2 Baths,800 sqft,Alec James Smith
+AED,"53,999",Yearly,Apartment,For Rent,Unfurnished,18 September 2023,"Rohy, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,905 sqft,Sheena De Silva
+AED,"155,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Seven Palm, Palm Jumeirah, Dubai",1 Bed,2 Baths,800 sqft,Chris Keefe
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,29 September 2023,"Seven Palm, Palm Jumeirah, Dubai",1 Bed,2 Baths,800 sqft,Mariana Dalvesco
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,8 September 2023,"The Signature, Downtown Dubai, Dubai",1 Bed,2 Baths,845 sqft,Sheena De Silva
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,24 July 2023,"Upper Crest (Burjside Terrace), Downtown Dubai, Dubai",1 Bed,2 Baths,828 sqft,Zeeshan Abbas
+AED,"51,000",Yearly,Apartment,For Rent,Unfurnished,24 June 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,1 Bath,950 sqft,Zeeshan Abbas
+AED,"95,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"La Riviera Azure, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,940 sqft,FAIZAN MAQBOOL
+AED,"39,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Louis Rumens
+AED,"39,000",Yearly,Apartment,For Rent,Unfurnished,5 September 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Louis Rumens
+AED,"65,000",Yearly,Apartment,For Rent,Furnished,18 October 2023,"The Imperial Residence B, The Imperial Residence, JVT District 5, Jumeirah Village Triangle (JVT), Dubai",1 Bed,2 Baths,867 sqft,Amir Shahzad Khan
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,14 October 2023,"29 Boulevard 2, 29 Boulevard, Downtown Dubai, Dubai",1 Bed,2 Baths,879 sqft,Ebrahim Jamseer
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,14 October 2023,"Al Neem Residence, Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,807 sqft,Ebrahim Jamseer
+AED,"50,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"Al Neem Residence, Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,807 sqft,Nazem Al Richani
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"Orion Building, Arjan, Dubai",1 Bed,2 Baths,879 sqft,Nazem Al Richani
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Orion Building, Arjan, Dubai",1 Bed,2 Baths,879 sqft,Sameer Khazi Mohammed
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Canal Apartments, The Links, The Views, Dubai",1 Bed,2 Baths,830 sqft,Sameer Khazi Mohammed
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,14 September 2023,"Canal Apartments, The Links, The Views, Dubai",1 Bed,2 Baths,830 sqft,Adam Robinson
+AED,"115,000",Yearly,Apartment,For Rent,Furnished,14 September 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,802 sqft,Adam Robinson
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,1 May 2023,"Al Neem Residence, Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,807 sqft,Asbakh Khan
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Ajwan Towers, Saadiyat Cultural District, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,969 sqft,Claude Edith Jeanne Bendels
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,2 June 2023,"Al Safa Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,900 sqft,Salman
+AED,"89,999",Yearly,Apartment,For Rent,Unfurnished,14 October 2023,"Nicholas Residence, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,950 sqft,Malik Shahzad
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,12 October 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,2 Baths,802 sqft,Nikita Obukhov
+AED,"160,000",Yearly,Apartment,For Rent,Unfurnished,4 August 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,2 Baths,802 sqft,Hassan Choudhary
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,4 August 2023,"Tajer Residence, The Old Town Island, Downtown Dubai, Dubai",1 Bed,2 Baths,992 sqft,Hassan Choudhary
+AED,"108,000",Yearly,Apartment,For Rent,Furnished,17 August 2023,"Burj Views Podium, Burj Views, Downtown Dubai, Dubai",1 Bed,1 Bath,902 sqft,Talib Al Rubai
+AED,"80,000",Yearly,Apartment,For Rent,Furnished,17 August 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,842 sqft,Talib Al Rubai
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,842 sqft,Chris Keefe
+AED,"64,999",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Sun Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,939 sqft,Chris Keefe
+AED,"64,999",Yearly,Apartment,For Rent,Furnished,30 August 2023,"Sun Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,939 sqft,Natalia Burdiugova
+AED,"122,000",Yearly,Apartment,For Rent,Furnished,30 August 2023,"Canal Apartments, The Links, The Views, Dubai",1 Bed,2 Baths,830 sqft,Natalia Burdiugova
+AED,"122,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Canal Apartments, The Links, The Views, Dubai",1 Bed,2 Baths,830 sqft,Abdul Samad
+AED,"43,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Majestic One, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,841 sqft,Abdul Samad
+AED,"64,000",Yearly,Apartment,For Rent,Furnished,26 September 2023,"Gardenia 1, Emirates Gardens, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,896 sqft,Pauras Shah
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,14 October 2023,"Geepas Tower, Arjan, Dubai",1 Bed,2 Baths,960 sqft,Aqsat Shabir
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,7 October 2023,"Geepas Tower, Arjan, Dubai",1 Bed,2 Baths,960 sqft,Pauras Shah
+AED,"159,000",Yearly,Apartment,For Rent,Unfurnished,7 October 2023,"Sunrise Bay Tower 2, Sunrise Bay, Emaar Beachfront, Dubai Harbour, Dubai",1 Bed,1 Bath,811 sqft,Pauras Shah
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,4 October 2023,"Seven Palm, Palm Jumeirah, Dubai",1 Bed,2 Baths,950 sqft,Sohaib Hassan
+AED,"42,000",Yearly,Hotel Apartment,For Rent,Furnished,9 November 2023,"Blue 3 Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Sherif Mohamed Nasser Elrefai Elmorsy Eltelis
+AED,"110,000",Yearly,Hotel Apartment,For Rent,Unfurnished,8 November 2023,"Al Sahab Tower 1, Al Sahab Tower, Dubai Marina, Dubai",1 Bed,1 Bath,919 sqft,Manish  Raheja
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Al Sahab Tower 1, Al Sahab Tower, Dubai Marina, Dubai",1 Bed,1 Bath,919 sqft,Manish  Raheja
+AED,"150,000",Yearly,Apartment,For Rent,Furnished,8 November 2023,"Dunya Tower, Downtown Dubai, Dubai",1 Bed,2 Baths,965 sqft,Aattiqa Noor
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Upper Crest (Burjside Terrace), Downtown Dubai, Dubai",1 Bed,2 Baths,900 sqft,Jake Doolan
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Al Reef Tower 1, Al Reef Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,948 sqft,Tasawar iqbal
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,12 May 2023,"Roxana Residence C, Roxana Residences, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,974 sqft,Shehrooz Ali
+AED,"52,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"La Fontana Apartments, Arjan, Dubai",1 Bed,2 Baths,923 sqft,Mehdi Dameri
+AED,"150,000",Yearly,Apartment,For Rent,Furnished,7 November 2023,"Rahaal Building 2, Rahaal, Madinat Jumeirah Living, Umm Suqeim, Dubai",1 Bed,1 Bath,841 sqft,Iftikhar Ali
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,11 May 2023,"Mag 218 Tower, Dubai Marina, Dubai",1 Bed,2 Baths,885 sqft,Mohammed Elsayed
+AED,"58,000",Yearly,Apartment,For Rent,Furnished,11 May 2023,"The Manhattan, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,823 sqft,Mohammed Elsayed
+AED,"58,000",Yearly,Apartment,For Rent,Furnished,6 November 2023,"The Manhattan, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,823 sqft,George Ibrahim
+AED,"37,800",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,George Ibrahim
+AED,"37,800",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Saleh Ba Ismail
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Armada Tower 3, Armada Towers, JLT Cluster P, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,896 sqft,Sohaib Hassan
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Armada Tower 3, Armada Towers, JLT Cluster P, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,896 sqft,Justan David
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Vida Residence 4, Vida Residence (The Hills), The Hills, Dubai",1 Bed,2 Baths,879 sqft,Justan David
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Vida Residence 4, Vida Residence (The Hills), The Hills, Dubai",1 Bed,2 Baths,879 sqft,Fatema Irfan Kassamali
+AED,"220,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Jumeirah Gate Tower 2, The Address Residences Jumeirah Resort and Spa, Jumeirah Beach Residence (JBR), Dubai",1 Bed,2 Baths,810 sqft,Fatema Irfan Kassamali
+AED,"220,000",Yearly,Apartment,For Rent,Furnished,4 November 2023,"Jumeirah Gate Tower 2, The Address Residences Jumeirah Resort and Spa, Jumeirah Beach Residence (JBR), Dubai",1 Bed,2 Baths,810 sqft,Farhan Ul Haq
+AED,"74,000",Yearly,Apartment,For Rent,Furnished,4 November 2023,"Laya Residences, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,996 sqft,Farhan Ul Haq
+AED,"74,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Laya Residences, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,996 sqft,Upul Ekanayaka
+AED,"179,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Seven Palm, Palm Jumeirah, Dubai",1 Bed,1 Bath,842 sqft,Said Ameer
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Art 5, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,904 sqft,Abrar Maqsood ali
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,850 sqft,Mary Borghosizian
+AED,"38,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Al Noor Building 1, Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,850 sqft,Alejandro Ojeda Arbaiza
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"DEC Tower 1, DEC Towers, Dubai Marina, Dubai",1 Bed,1 Bath,823 sqft,Alejandro Ojeda Arbaiza
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"DEC Tower 1, DEC Towers, Dubai Marina, Dubai",1 Bed,1 Bath,823 sqft,Samreen  Khan
+AED,"225,000",Yearly,Apartment,For Rent,Unfurnished,10 May 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,814 sqft,Babin  sahood
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"BLVD Heights Tower 2, BLVD Heights, Downtown Dubai, Dubai",1 Bed,2 Baths,928 sqft,Jake Doolan
+AED,"144,999",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Silverene Tower B, Silverene, Dubai Marina, Dubai",1 Bed,2 Baths,830 sqft,Lucille
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Abrar Ahmad
+AED,"149,900",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Azizi Mina, Palm Jumeirah, Dubai",1 Bed,2 Baths,930 sqft,Arshad Qureshi
+AED,"70,000",Yearly,Apartment,For Rent,Furnished,25 October 2023,"Lake Point Tower, JLT Cluster N, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,900 sqft,Mohammed Demir
+AED,"130,000",Yearly,Hotel Apartment,For Rent,Furnished,23 October 2023,"Miska 3, Miska, Old Town, Downtown Dubai, Dubai",1 Bed,2 Baths,861 sqft,LLana Mae Eisma
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Q Gardens Boutique Residences Block A, Q Gardens Boutique Residences, Arjan, Dubai",1 Bed,2 Baths,958 sqft,Deepa Pamnani
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Fortunato, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Beny Pereira
+AED,"59,999",Yearly,Hotel Apartment,For Rent,Unfurnished,25 October 2023,"Fortunato, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Beny Pereira
+AED,"85,000",Yearly,Apartment,For Rent,Furnished,30 October 2023,"Oxford Residence 2, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,933 sqft,Abrar Maqsood ali
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"LIV Residence, Dubai Marina, Dubai",1 Bed,2 Baths,850 sqft,Simon Boden
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Mazaya 19, Queue Point, Liwan, Dubai",1 Bed,2 Baths,876 sqft,Malvine Nyuoh
+AED,"23,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,980 sqft,Shehroz Rasheed
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Prime Views, Meydan Avenue, Meydan City, Dubai",1 Bed,1 Bath,808 sqft,HAFIZ TAYYAB
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,820 sqft,HAFIZ TAYYAB
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,820 sqft,Baharak Rafatian
+AED,"78,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Rigel Apartments, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,815 sqft,Manpreet Kaur
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,2 Baths,880 sqft,Muhammad Moheeb
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,26 October 2023,"Bellevue Tower 1, Bellevue Towers, Downtown Dubai, Dubai",1 Bed,2 Baths,877 sqft,RAJA HASSAN NAWAZ
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,21 October 2022,"Surf 1, Surf at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,875 sqft,FAIZAN MAQBOOL
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Vida Residences Dubai Marina, Dubai Marina, Dubai",1 Bed,2 Baths,816 sqft,Sahabzada Zabee Ullah
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,19 October 2023,"Green Lakes 2, JLT Cluster S, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,894 sqft,Ibrahim Shouma
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,23 October 2023,"Panorama Tower 3, Panorama, The Views, Dubai",1 Bed,2 Baths,870 sqft,Narayan Nihalani
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Mazaya 30, Queue Point, Liwan, Dubai",1 Bed,2 Baths,856 sqft,Hamza Farhan Farhan Akhtar
+AED,"85,000",Yearly,Apartment,For Rent,Furnished,18 October 2023,"Scala Tower, Business Bay, Dubai",1 Bed,2 Baths,939 sqft,Christopher Harding
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"Axis 8, Axis Residences, Dubai Silicon Oasis (DSO), Dubai",1 Bed,2 Baths,817 sqft,Almir Puskic
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Burj Views Podium, Burj Views, Downtown Dubai, Dubai",1 Bed,1 Bath,902 sqft,Makhmud Asadulaev
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"Tower A, DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,987 sqft,Renad Saleh
+AED,"67,999",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Building 88, Arjan, Dubai",1 Bed,2 Baths,858 sqft,Parvez Parkar
+AED,"67,999",Yearly,Villa,For Rent,Unfurnished,24 October 2023,"Building 88, Arjan, Dubai",1 Bed,2 Baths,858 sqft,Parvez Parkar
+AED,"110,000",Yearly,Villa,For Rent,Furnished,23 October 2023,"1 Residences Building 1, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,934 sqft,Mohammed Afroz Ansari
+AED,"110,000",Yearly,Hotel Apartment,For Rent,Furnished,23 October 2023,"1 Residences Building 1, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,934 sqft,Mohammed Afroz Ansari
+AED,"65,000",Yearly,Hotel Apartment,For Rent,Unfurnished,19 October 2023,"Living Garden II, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,812 sqft,Shafqat Badar
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,18 October 2023,"Hartland Greens, Sobha Hartland, Dubai",1 Bed,2 Baths,853 sqft,Simon Boden
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,18 October 2023,"The Address Residences Dubai Opera Tower 2, The Address Residences Dubai Opera, Downtown Dubai, Dubai",1 Bed,2 Baths,827 sqft,Simon Boden
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,14 October 2023,"The Address Residences Dubai Opera Tower 2, The Address Residences Dubai Opera, Downtown Dubai, Dubai",1 Bed,2 Baths,827 sqft,Saeed Zain Saeed Zain Alzbeidi
+AED,"52,000",Yearly,Apartment,For Rent,Furnished,14 October 2023,"Al Thani Residence, Al Barsha 1, Al Barsha, Dubai",1 Bed,2 Baths,800 sqft,Saeed Zain Saeed Zain Alzbeidi
+AED,"52,000",Yearly,Apartment,For Rent,Furnished,12 October 2022,"Al Thani Residence, Al Barsha 1, Al Barsha, Dubai",1 Bed,2 Baths,800 sqft,FAIZAN MAQBOOL
+AED,"224,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,2 Baths,934 sqft,Irfan Khattak
+AED,"142,000",Yearly,Hotel Apartment,For Rent,Unfurnished,18 October 2023,"The Grand, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,804 sqft,Hardeep Assnani
+AED,"89,000",Yearly,Hotel Apartment,For Rent,Furnished,16 October 2023,"La Riviera Azure, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,951 sqft,David Melki
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,1 Bath,987 sqft,Bruno Domingues
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,17 October 2023,"Marwa Heights, JVC District 15, Jumeirah Village Circle (JVC), Dubai",1 Bed,1 Bath,831 sqft,Andrea Dominici
+AED,"40,000",Yearly,Apartment,For Rent,Furnished,9 October 2023,"Al Mamzar Tower 2, Al Mamzar Towers, Al Mamzar, Dubai",1 Bed,2 Baths,900 sqft,Salomatsho Mukairshoev
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"UpTown Al Zahia, Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,800 sqft,Karima  Frikh
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Downtown Views, Za'abeel 2, Za'abeel, Dubai",1 Bed,2 Baths,876 sqft,Henry Marklew
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Green Lakes 2, JLT Cluster S, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,980 sqft,Mohamed Gouda
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Al Arta 1, Al Arta, The Greens, Dubai",1 Bed,1 Bath,800 sqft,Mauro Marchetti
+AED,"80,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"The Cascades, Dubai Marina, Dubai",1 Bed,2 Baths,880 sqft,Mohammed Demir
+AED,"118,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,959 sqft,Asif Sohaib Raja
+AED,"150,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,960 sqft,Asif Sohaib Raja
+AED,"150,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,960 sqft,Pooja Jeswani
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,818 sqft,Pooja Jeswani
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,1 August 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,818 sqft,Abdul Kareem Shaik
+AED,"130,000",Yearly,Apartment,For Rent,Furnished,1 August 2023,"The Bay, Business Bay, Dubai",1 Bed,2 Baths,800 sqft,Abdul Kareem Shaik
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,950 sqft,Ahsan Abbas
+AED,"23,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,950 sqft,Mohammed Demir
+AED,"52,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Desert Sun, Dubai Residence Complex, Dubai",1 Bed,2 Baths,948 sqft,Mohammed Demir
+AED,"52,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Desert Sun, Dubai Residence Complex, Dubai",1 Bed,2 Baths,948 sqft,Asad Khan
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Bellevue Tower 2, Bellevue Towers, Downtown Dubai, Dubai",1 Bed,2 Baths,851 sqft,Asad Khan
+AED,"74,999",Yearly,Apartment,For Rent,Unfurnished,5 October 2023,"Rukan 3, Rukan, Dubailand, Dubai",1 Bed,2 Baths,976 sqft,Yousuf Quaid Johar
+AED,"220,000",Yearly,Apartment,For Rent,Unfurnished,5 October 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,885 sqft,Yousuf Quaid Johar
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,21 October 2023,"The Signature, Downtown Dubai, Dubai",1 Bed,2 Baths,885 sqft,Nasir Mughal
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,4 October 2023,"The Signature, Downtown Dubai, Dubai",1 Bed,2 Baths,885 sqft,Rakesh Mirchandani Ajwani
+AED,"68,000",Yearly,Apartment,For Rent,Furnished,4 October 2023,"Laya Residences, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,"1,000 sqft",Rakesh Mirchandani Ajwani
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,812 sqft,Georges Bechara
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,5 October 2023,"Upper Crest (Burjside Terrace), Downtown Dubai, Dubai",1 Bed,2 Baths,911 sqft,Daniel Daoud
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,11 October 2023,"Tower B, DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,939 sqft,Omar Belmiloud
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Tower B, DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,939 sqft,Tariq Shah
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Silverene Tower A, Silverene, Dubai Marina, Dubai",1 Bed,2 Baths,832 sqft,Tariq Shah
+AED,"155,000",Yearly,Apartment,For Rent,Furnished,6 October 2023,"The Sterling East, The Sterling, Business Bay, Dubai",1 Bed,2 Baths,971 sqft,Raif Hassan Ikkeri
+AED,"175,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Beach Isle Tower 1, Beach Isle, Emaar Beachfront, Dubai Harbour, Dubai",1 Bed,1 Bath,931 sqft,Dani Kazan
+AED,"72,500",Yearly,Apartment,For Rent,Furnished,6 October 2023,"Amaya Towers, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,805 sqft,Country Home Real Estate Brokers Est.
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,4 October 2023,"Downtown Views, Za'abeel 2, Za'abeel, Dubai",1 Bed,2 Baths,878 sqft,Mohammed Demir
+AED,"195,000",Yearly,Apartment,For Rent,Furnished,9 October 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,804 sqft,Ahmad Badreddine
+AED,"195,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,804 sqft,Mirza Saif Ali Mirza Khurram Raza
+AED,"144,999",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"The Grand, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,804 sqft,Mirza Saif Ali Mirza Khurram Raza
+AED,"69,000",Yearly,Apartment,For Rent,Furnished,29 September 2023,"Regent Court, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,831 sqft,Mir Nofil Manzoor
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,26 September 2023,"Amna, Al Habtoor City, Business Bay, Dubai",1 Bed,2 Baths,973 sqft,Shahzad Ahmed
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Paramount Tower Hotel & Residences, Business Bay, Dubai",1 Bed,2 Baths,898 sqft,Shams UR Rehman
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,923 sqft,Shams UR Rehman
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,26 August 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,923 sqft,Abhinav Singh
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,26 August 2023,"Marina Gate 1, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,868 sqft,Abhinav Singh
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,15 October 2023,"Marina Gate 1, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,868 sqft,Ali Kassem
+AED,"135,000",Yearly,Apartment,For Rent,Furnished,15 October 2023,"La Rive Tower 1, La Rive, Port de La Mer, La Mer, Jumeirah, Dubai",1 Bed,1 Bath,902 sqft,Ali Kassem
+AED,"135,000",Yearly,Apartment,For Rent,Unfurnished,29 September 2023,"29 Boulevard 1, 29 Boulevard, Downtown Dubai, Dubai",1 Bed,2 Baths,836 sqft,Muhammad Sohaib
+AED,"210,000",Yearly,Apartment,For Rent,Furnished,19 September 2023,"The Address Fountain Views 1, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,2 Baths,839 sqft,Parsa Mozaffari
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,1 October 2023,"Downtown Views, Za'abeel 2, Za'abeel, Dubai",1 Bed,2 Baths,866 sqft,Sarmad Ali Abdulhussein Abdulhussein
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,22 September 2023,"Sanibel Tower, Park Island, Dubai Marina, Dubai",1 Bed,2 Baths,909 sqft,Abrar Maqsood ali
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"Mag 218 Tower, Dubai Marina, Dubai",1 Bed,2 Baths,886 sqft,Menna Deyaaeldin
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,16 September 2023,"Rahaal Building 1, Rahaal, Madinat Jumeirah Living, Umm Suqeim, Dubai",1 Bed,2 Baths,830 sqft,Mohammed Demir
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Azizi Mina, Palm Jumeirah, Dubai",1 Bed,2 Baths,928 sqft,Hakan Gokkaya
+AED,"112,000",Yearly,Apartment,For Rent,Furnished,16 October 2023,"Mag 218 Tower, Dubai Marina, Dubai",1 Bed,2 Baths,844 sqft,Hakan Gokkaya
+AED,"112,000",Yearly,Apartment,For Rent,Furnished,14 September 2023,"Mag 218 Tower, Dubai Marina, Dubai",1 Bed,2 Baths,844 sqft,Claude Edith Jeanne Bendels
+AED,"99,997",Yearly,Apartment,For Rent,Furnished,14 September 2023,"The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,832 sqft,Claude Edith Jeanne Bendels
+AED,"145,000",Yearly,Apartment,For Rent,Unfurnished,19 September 2023,"Burj Daman, DIFC, Dubai",1 Bed,1 Bath,894 sqft,Mohammed Demir
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,19 September 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Mohammed Demir
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,18 September 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,987 sqft,Ahmed Kaiaty
+AED,"118,000",Yearly,Apartment,For Rent,Furnished,18 September 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,3 Baths,959 sqft,Ahmed Kaiaty
+AED,"118,000",Yearly,Apartment,For Rent,Furnished,12 September 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,3 Baths,959 sqft,Abrar Maqsood ali
+AED,"115,000",Yearly,Apartment,For Rent,Furnished,12 September 2023,"Mayan 3, Mayan, Yas Island, Abu Dhabi",1 Bed,2 Baths,949 sqft,Abrar Maqsood ali
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,27 September 2023,"Reef Residence, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,885 sqft,Country Home Real Estate Brokers Est.
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,20 September 2023,"Al Shera Tower, JLT Cluster E, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,997 sqft,Talaat Hassan Abou Tafich
+AED,"70,000",Yearly,Apartment,For Rent,Furnished,20 September 2023,"Reef Residence, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,885 sqft,Talaat Hassan Abou Tafich
+AED,"185,000",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"Jumeirah Gate Tower 1, The Address Residences Jumeirah Resort and Spa, Jumeirah Beach Residence (JBR), Dubai",1 Bed,2 Baths,856 sqft,Ammar Safaa Hashim
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,26 September 2023,"Dubai Creek Residence Tower 1 North, Dubai Creek Residences, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,878 sqft,Iram Jawed
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,12 September 2023,"Bahwan Tower, Downtown Dubai, Dubai",1 Bed,2 Baths,982 sqft,Hasan Dil Khan
+AED,"99,000",Yearly,Hotel Apartment,For Rent,Unfurnished,12 September 2023,"Marina Terrace, Dubai Marina, Dubai",1 Bed,2 Baths,944 sqft,Reka Fenyi
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,4 September 2023,"Golf Tower 2, Golf Tower, The Views, Dubai",1 Bed,1 Bath,863 sqft,Aileen Dela Cruz
+AED,"55,000",Yearly,Apartment,For Rent,Furnished,11 September 2023,"Skycourts Tower F, Skycourts Towers, Dubai Residence Complex, Dubai",1 Bed,1 Bath,843 sqft,Kaleem Pasha
+AED,"72,000",Yearly,Apartment,For Rent,Furnished,4 September 2023,"DAMAC Ghalia, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,838 sqft,Choukri Anis Abdelhadi
+AED,"135,000",Yearly,Apartment,For Rent,Furnished,4 September 2023,"Dunya Tower, Downtown Dubai, Dubai",1 Bed,2 Baths,823 sqft,Choukri Anis Abdelhadi
+AED,"135,000",Yearly,Apartment,For Rent,Unfurnished,16 December 2022,"Dunya Tower, Downtown Dubai, Dubai",1 Bed,2 Baths,823 sqft,Asif Sohaib Raja
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,16 December 2022,"Bonaire Tower, Park Island, Dubai Marina, Dubai",1 Bed,2 Baths,909 sqft,Asif Sohaib Raja
+AED,"220,000",Yearly,Apartment,For Rent,Furnished,29 August 2023,"Jumeirah Living Marina Gate, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,977 sqft,Andrew Said
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,29 August 2023,"PG Upper House, Al Furjan, Dubai",1 Bed,2 Baths,985 sqft,Andrew Said
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,6 September 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,865 sqft,Zhyldyz Kendirbaeva
+AED,"180,000",Yearly,Apartment,For Rent,Unfurnished,6 September 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,2 Baths,953 sqft,Zhyldyz Kendirbaeva
+AED,"89,999",Yearly,Apartment,For Rent,Furnished,30 August 2023,"Al Shera Tower, JLT Cluster E, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,993 sqft,Mulham Kanatri
+AED,"89,999",Yearly,Apartment,For Rent,Furnished,29 August 2023,"Al Shera Tower, JLT Cluster E, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,993 sqft,Sohaib Hassan
+AED,"75,000",Yearly,Apartment,For Rent,Furnished,29 August 2023,"Spica Residential, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,954 sqft,Sohaib Hassan
+AED,"42,000",Yearly,Apartment,For Rent,Furnished,22 August 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Nour Elshafei
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,22 August 2023,"1 Residences Building 1, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,945 sqft,Nour Elshafei
+AED,"160,000",Yearly,Apartment,For Rent,Furnished,15 August 2023,"Vida Residences Dubai Marina, Dubai Marina, Dubai",1 Bed,2 Baths,973 sqft,Sofia El Imam Elalaoui
+AED,"56,000",Yearly,Apartment,For Rent,Furnished,15 August 2023,"API Arjan Two Building, Arjan, Dubai",1 Bed,2 Baths,"1,000 sqft",Sofia El Imam Elalaoui
+AED,"56,000",Yearly,Apartment,For Rent,Furnished,13 September 2023,"API Arjan Two Building, Arjan, Dubai",1 Bed,2 Baths,"1,000 sqft",Katrina Eulogio
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,6 September 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Ammar Safaa Hashim
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,29 August 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Alexander Ivanchenko
+AED,"112,000",Yearly,Apartment,For Rent,Unfurnished,22 August 2023,"Boulevard Central 1, Boulevard Central, Downtown Dubai, Dubai",1 Bed,2 Baths,805 sqft,Junaid Ahmed
+AED,"42,000",Yearly,Apartment,For Rent,Furnished,9 August 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Mary Borghosizian
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,19 August 2023,"Millennium Binghatti Residences, Business Bay, Dubai",1 Bed,1 Bath,836 sqft,Keyvan Farmanfarmaee
+AED,"180,000",Yearly,Apartment,For Rent,Unfurnished,25 August 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,2 Baths,953 sqft,HAFIZ TAYYAB
+AED,"150,000",Yearly,Apartment,For Rent,Furnished,22 August 2023,"Banyan Tree Residences, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,851 sqft,Muhammad Saad
+AED,"225,000",Yearly,Apartment,For Rent,Unfurnished,25 August 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,1 Bath,935 sqft,Reem Kamal
+AED,"57,000",Yearly,Apartment,For Rent,Unfurnished,9 August 2023,"Ritaj Block E, Ritaj (Residential Complex), Dubai Investment Park 2, Dubai Investment Park (DIP), Dubai",1 Bed,1 Bath,831 sqft,Willian Martinez
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,14 February 2023,"1 Residences Building 1, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,898 sqft,Sarfuddin Mohammed
+AED,"130,000",Yearly,Apartment,For Rent,Furnished,17 October 2023,"1 Residences Building 1, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,898 sqft,Abdul Wahab
+AED,"73,000",Yearly,Apartment,For Rent,Furnished,17 October 2023,"V3 Tower, JLT Cluster V, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,806 sqft,Abdul Wahab
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,4 August 2023,"The Grand, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,804 sqft,Reshma Lulla
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,10 August 2023,"PG Upper House, Al Furjan, Dubai",1 Bed,2 Baths,985 sqft,Nitin Chopra
+AED,"200,000",Yearly,Apartment,For Rent,Furnished,31 August 2023,"Boulevard Point, Downtown Dubai, Dubai",1 Bed,1 Bath,917 sqft,Mary Borghosizian
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Maysoon Building, Oud Metha, Bur Dubai, Dubai",1 Bed,2 Baths,950 sqft,Sahabzada Zabee Ullah
+AED,"50,000",Yearly,Apartment,For Rent,Furnished,6 August 2023,"Tenora, Residential District, Dubai South, Dubai",1 Bed,1 Bath,820 sqft,Hassan Choudhary
+AED,"50,000",Yearly,Apartment,For Rent,Furnished,12 July 2022,"Tenora, Residential District, Dubai South, Dubai",1 Bed,1 Bath,820 sqft,Ashish Mahajan
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,12 July 2022,"The Lofts East, The Lofts, Downtown Dubai, Dubai",1 Bed,2 Baths,916 sqft,Ashish Mahajan
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,17 July 2023,"The Lofts East, The Lofts, Downtown Dubai, Dubai",1 Bed,2 Baths,916 sqft,Usman Asim
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,17 July 2023,"Blue Waves Tower, Dubai Residence Complex, Dubai",1 Bed,2 Baths,832 sqft,Usman Asim
+AED,"105,000",Yearly,Apartment,For Rent,Furnished,27 July 2023,"Burj Views C, Burj Views, Downtown Dubai, Dubai",1 Bed,2 Baths,910 sqft,Muhammad Husnain Abbas
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,27 July 2023,"Blue Waves Tower, Dubai Residence Complex, Dubai",1 Bed,2 Baths,832 sqft,Muhammad Husnain Abbas
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,26 July 2023,"Blue Waves Tower, Dubai Residence Complex, Dubai",1 Bed,2 Baths,832 sqft,Muhammad Moheeb
+AED,"105,000",Yearly,Apartment,For Rent,Furnished,18 July 2023,"Burj Views C, Burj Views, Downtown Dubai, Dubai",1 Bed,2 Baths,910 sqft,Naveed Ullah
+AED,"80,000",Yearly,Apartment,For Rent,Furnished,17 July 2023,"Mag 218 Tower, Dubai Marina, Dubai",1 Bed,2 Baths,908 sqft,Muzafar Shahzad
+AED,"93,000",Yearly,Apartment,For Rent,Unfurnished,4 September 2023,"1 Residences Building 2, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,934 sqft,DIALLO
+AED,"225,000",Yearly,Apartment,For Rent,Furnished,26 July 2023,"The Address Fountain Views 1, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,2 Baths,840 sqft,Usman Ghani
+AED,"99,998",Yearly,Apartment,For Rent,Unfurnished,18 July 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,922 sqft,Bilal Ahmed
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,22 October 2023,"Al Zeina Building A, Al Zeina, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,945 sqft,Hassan Choudhary
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,21 October 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,2 Baths,804 sqft,Sahabzada Zabee Ullah
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,13 July 2023,"Warsan Oasis 1, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,893 sqft,Naeem Butt
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,19 June 2023,"Reflection, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,1 Bath,806 sqft,Whelbert Barredo
+AED,"85,000",Yearly,Apartment,For Rent,Furnished,31 October 2023,"DEC Tower 1, DEC Towers, Dubai Marina, Dubai",1 Bed,2 Baths,824 sqft,Muhammad Hasnat
+AED,"68,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Al Waseem Residences, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,975 sqft,Syed Ahmad
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,14 August 2023,"Al Waseem Residences, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,975 sqft,Ghulam Ali
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,13 June 2023,"Burooj Views, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,861 sqft,Mohammed Althaf
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,1 July 2023,"Burooj Views, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,861 sqft,Mohammed Althaf
+AED,"49,999",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Rohy, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,890 sqft,Raheel Mughal
+AED,"49,999",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Rohy, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,890 sqft,Aden Gilmore
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"La Rive Tower 3, La Rive, Port de La Mer, La Mer, Jumeirah, Dubai",1 Bed,2 Baths,878 sqft,Aden Gilmore
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,13 September 2023,"Sondos Rosa, Dubai Residence Complex, Dubai",1 Bed,1 Bath,850 sqft,Ali Imran
+AED,"82,000",Yearly,Apartment,For Rent,Unfurnished,19 January 2023,"Al Dhafrah 3, Al Dhafrah, The Greens, Dubai",1 Bed,1 Bath,820 sqft,Aaitbar Ali Mugheri
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,2 Baths,803 sqft,Muhammad Asfand
+AED,"65,000",Yearly,Apartment,For Rent,Furnished,26 August 2023,"Ocean Terrace Residence, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,882 sqft,Mohammed Elsayed
+AED,"60,000",Yearly,Apartment,For Rent,Furnished,1 June 2023,"Florence 2, Florence, Tuscan Residence, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,837 sqft,Muhammad Nadeem
+AED,"70,000",Yearly,Apartment,For Rent,Furnished,1 June 2023,"Bloom Marina, Al Bateen, Abu Dhabi",1 Bed,2 Baths,862 sqft,Muhammad Nadeem
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,8 June 2023,"Bloom Marina, Al Bateen, Abu Dhabi",1 Bed,2 Baths,862 sqft,Khurram Durrani
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,8 June 2023,"Marina Gate 2, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,827 sqft,Khurram Durrani
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Marina Gate 2, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,827 sqft,Zeeshan Abbas
+AED,"220,000",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"The Address Residences Dubai Opera Tower 1, The Address Residences Dubai Opera, Downtown Dubai, Dubai",1 Bed,2 Baths,802 sqft,Zeeshan Abbas
+AED,"220,000",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"The Address Residences Dubai Opera Tower 1, The Address Residences Dubai Opera, Downtown Dubai, Dubai",1 Bed,2 Baths,802 sqft,Timothy Ritchie
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,3 June 2023,"Al Taawun Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,900 sqft,Bilal Ahmed
+AED,"131,999",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Park View Tower, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,912 sqft,Salik
+AED,"164,900",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Burj Vista 2, Burj Vista, Downtown Dubai, Dubai",1 Bed,2 Baths,962 sqft,Salik
+AED,"164,900",Yearly,Apartment,For Rent,Furnished,5 June 2023,"Burj Vista 2, Burj Vista, Downtown Dubai, Dubai",1 Bed,2 Baths,962 sqft,Demi Delaney
+AED,"58,000",Yearly,Apartment,For Rent,Furnished,5 June 2023,"Soho Square, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,850 sqft,Demi Delaney
+AED,"58,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Soho Square, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,850 sqft,Asad Khan
+AED,"54,998",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Noor Apartment 1, JVT District 2, Jumeirah Village Triangle (JVT), Dubai",1 Bed,2 Baths,906 sqft,Asad Khan
+AED,"29,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Al Ameer Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,800 sqft,Madina Abdirashidova
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Tower B, DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,942 sqft,Madina Abdirashidova
+AED,"56,999",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Oceanscape, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,916 sqft,Waseem Abas
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,864 sqft,Waseem Abas
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,14 September 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,864 sqft,Huda Jawish
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"La Riviera Azure, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,981 sqft,Shannon Byrne
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"La Riviera Azure, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,909 sqft,Shannon Byrne
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,21 October 2023,"La Riviera Azure, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,909 sqft,Jahangir Khan
+AED,"125,000",Yearly,Apartment,For Rent,Furnished,21 October 2023,"Amna, Al Habtoor City, Business Bay, Dubai",1 Bed,1 Bath,810 sqft,Jahangir Khan
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Amna, Al Habtoor City, Business Bay, Dubai",1 Bed,1 Bath,810 sqft,Affan Yousaf
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,801 sqft,Affan Yousaf
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,17 October 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,801 sqft,Kahsay Abdurahman
+AED,"52,990",Yearly,Apartment,For Rent,Furnished,17 October 2023,"Sobha Daffodil, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,850 sqft,Kahsay Abdurahman
+AED,"52,990",Yearly,Apartment,For Rent,Unfurnished,21 October 2023,"Sobha Daffodil, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,850 sqft,Ebrahim Jamseer
+AED,"95,000",Yearly,Apartment,For Rent,Unfurnished,21 October 2023,"Scala Tower, Business Bay, Dubai",1 Bed,2 Baths,899 sqft,Ebrahim Jamseer
+AED,"57,000",Yearly,Apartment,For Rent,Furnished,13 October 2023,"Marina Bay Tower 2, Marina Bay, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,821 sqft,Simon Boden
+AED,"46,000",Yearly,Apartment,For Rent,Furnished,19 August 2023,"Blue 1 Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,911 sqft,Smain Djouhri
+AED,"47,999",Yearly,Apartment,For Rent,Furnished,27 September 2023,"Al Reef Downtown, Al Reef, Abu Dhabi",1 Bed,2 Baths,850 sqft,Abrar Maqsood ali
+AED,"47,999",Yearly,Apartment,For Rent,Unfurnished,10 July 2023,"Al Reef Downtown, Al Reef, Abu Dhabi",1 Bed,2 Baths,850 sqft,Muhammad Moheeb
+AED,"150,000",Yearly,Apartment,For Rent,Unfurnished,10 July 2023,"Marina Gate 2, Marina Gate, Dubai Marina, Dubai",1 Bed,2 Baths,827 sqft,Muhammad Moheeb
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,21 May 2023,"Dunya Tower, Downtown Dubai, Dubai",1 Bed,2 Baths,965 sqft,Hassan Choudhary
+AED,"54,999",Yearly,Apartment,For Rent,Unfurnished,4 October 2023,"Sobha Daffodil Wing A, Sobha Daffodil, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,900 sqft,Anwar Sadiq
+AED,"52,000",Yearly,Apartment,For Rent,Furnished,23 August 2023,"Mulberry 1, Emirates Gardens 2, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,983 sqft,Michaela Holesinska
+AED,"100,000",Yearly,Apartment,For Rent,Furnished,10 October 2023,"Building 2, Hartland Greens, Sobha Hartland, Dubai",1 Bed,2 Baths,863 sqft,Dean Mark Charter
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"La Fontana Apartments, Arjan, Dubai",1 Bed,2 Baths,919 sqft,Aiperi  Matyeva
+AED,"69,999",Yearly,Apartment,For Rent,Unfurnished,11 August 2023,"The Gate Tower 1, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,971 sqft,Umair Farooq
+AED,"72,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,867 sqft,Babin  sahood
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,19 May 2023,"Tenora, Residential District, Dubai South, Dubai",1 Bed,2 Baths,805 sqft,Abdul Rauf
+AED,"99,998",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"1 Residences Building 2, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,924 sqft,M Tahir
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Pantheon Elysee I, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,836 sqft,Husnain Ali
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,9 May 2023,"Park View Tower, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,991 sqft,Duke Garcia
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Armada Tower 3, Armada Towers, JLT Cluster P, Jumeirah Lake Towers (JLT), Dubai",1 Bed,1 Bath,879 sqft,Chaudry Zaheer
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"South Ridge 2, South Ridge, Downtown Dubai, Dubai",1 Bed,2 Baths,897 sqft,Chaudry Zaheer
+AED,"95,000",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Sunset 2, Sunset at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,803 sqft,Waseem Abidi
+AED,"95,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Sunset 2, Sunset at Creek Beach, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,803 sqft,Muhammad Waleed Shahid
+AED,"240,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"The Address Fountain Views 1, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,2 Baths,840 sqft,Muhammad Waleed Shahid
+AED,"240,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"The Address Fountain Views 1, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,2 Baths,840 sqft,Zohaib Mazhar
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Ameer Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,800 sqft,Zohaib Mazhar
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Ameer Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,800 sqft,Malek Hammouri
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"The Gate Tower 1, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,971 sqft,Malek Hammouri
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"The Gate Tower 1, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,971 sqft,Shibumon Philipose
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,812 sqft,Shibumon Philipose
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,812 sqft,Tanveer Ahmad
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Taawun Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,850 sqft,Tanveer Ahmad
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,3 October 2023,"Al Taawun Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,850 sqft,Muhammad Ilyas
+AED,"139,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"DAMAC Maison Prive, Business Bay, Dubai",1 Bed,2 Baths,954 sqft,Christian Alejandria
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Building 46, Mediterranean, Discovery Gardens, Dubai",1 Bed,2 Baths,969 sqft,Noman Nabi
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Zar 1 Building, Al Qasimia, Sharjah",1 Bed,1 Bath,"1,000 sqft",Muhammad Sheri
+AED,"250,000",Yearly,Apartment,For Rent,Furnished,3 October 2022,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,2 Baths,880 sqft,Ashish Mahajan
+AED,"45,000",Yearly,Apartment,For Rent,Furnished,9 November 2023,"Al Noor Building 2, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,850 sqft,Vijay Chhikara
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Burj Views C, Burj Views, Downtown Dubai, Dubai",1 Bed,2 Baths,965 sqft,Umar Muhammad Ilyas
+AED,"22,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Jawad Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,900 sqft,Muhammad Usman
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Kawsar Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Muhammad Usman
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Muhammad Usman
+AED,"180,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Address Harbour Point, Dubai Creek Harbour, Dubai",1 Bed,2 Baths,804 sqft,Mohamad Naddi
+AED,"99,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"DAMAC Maison Majestine, Business Bay, Dubai",1 Bed,2 Baths,853 sqft,Mohamad Naddi
+AED,"99,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"DAMAC Maison Majestine, Business Bay, Dubai",1 Bed,2 Baths,853 sqft,Bilal Ishaq
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Boulevard Crescent Tower 1, Boulevard Crescent Towers, Downtown Dubai, Dubai",1 Bed,2 Baths,908 sqft,Bilal Ishaq
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Boulevard Crescent Tower 1, Boulevard Crescent Towers, Downtown Dubai, Dubai",1 Bed,2 Baths,908 sqft,Usama Khalid
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Building 2, Hartland Greens, Sobha Hartland, Dubai",1 Bed,2 Baths,864 sqft,Usama Khalid
+AED,"100,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Building 2, Hartland Greens, Sobha Hartland, Dubai",1 Bed,2 Baths,864 sqft,Ibrahim Musa
+AED,"19,000",Yearly,Apartment,For Rent,Furnished,28 October 2023,"Al Jazairi Fawar Building, Al Majaz 2, Al Majaz, Sharjah",1 Bed,1 Bath,900 sqft,Aamir Shaikh
+AED,"19,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Jazairi Fawar Building, Al Majaz 2, Al Majaz, Sharjah",1 Bed,1 Bath,900 sqft,Asad Raza
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Oxford Building, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,802 sqft,Asad Raza
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Oxford Building, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,802 sqft,Muhammad Adnan
+AED,"79,999",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"V3 Tower, JLT Cluster V, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,846 sqft,Muhammad Adnan
+AED,"79,999",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"V3 Tower, JLT Cluster V, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,846 sqft,Jamshaid Afzal
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,820 sqft,Jamshaid Afzal
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,820 sqft,sajjad hussain
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Arabian Gates, Dubai Silicon Oasis (DSO), Dubai",1 Bed,2 Baths,822 sqft,sajjad hussain
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Arabian Gates, Dubai Silicon Oasis (DSO), Dubai",1 Bed,2 Baths,822 sqft,Luz Myriam Gomez
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Friends Tower, Danet Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,967 sqft,Yasir Shakeel
+AED,"29,000",Yearly,Apartment,For Rent,Furnished,8 November 2023,"Al Kawsar Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,995 sqft,Saleem Akram
+AED,"160,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Yansoon 2, Yansoon, Old Town, Downtown Dubai, Dubai",1 Bed,1 Bath,827 sqft,Bilal Ishaq
+AED,"95,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Princess Tower, Dubai Marina, Dubai",1 Bed,2 Baths,925 sqft,Abdel Rhman
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Ameer Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Duke Garcia
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,898 sqft,Hadi Al Shemari
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"DAMAC Maison Canal Views, Business Bay, Dubai",1 Bed,2 Baths,944 sqft,Hadi Al Shemari
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Jawad Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Muhammad Mudassir
+AED,"28,000",Yearly,Apartment,For Rent,Furnished,4 November 2023,"Al Jawad Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Ishfaq Naseem
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,4 November 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,959 sqft,Ishfaq Naseem
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Elite Residence, Dubai Marina, Dubai",1 Bed,2 Baths,959 sqft,Ammar Yaser Khalaf
+AED,"230,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,905 sqft,Jahanzaib
+AED,"230,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,905 sqft,Abrar Sana Ullah
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Address Boulevard, Downtown Dubai, Dubai",1 Bed,2 Baths,882 sqft,Vijay Chhikara
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Address Boulevard, Downtown Dubai, Dubai",1 Bed,2 Baths,882 sqft,Waseem Nawaz
+AED,"72,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Ansam 1, Ansam, Yas Island, Abu Dhabi",1 Bed,2 Baths,853 sqft,Waseem Nawaz
+AED,"72,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Ansam 1, Ansam, Yas Island, Abu Dhabi",1 Bed,2 Baths,853 sqft,Shahzaib Ali
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Kawsar Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,980 sqft,Shahzaib Ali
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Kawsar Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,980 sqft,Deepak Duggal
+AED,"115,000",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Boulevard Central Podium, Boulevard Central, Downtown Dubai, Dubai",1 Bed,1 Bath,948 sqft,Sorin Blajinu
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Boulevard Central Podium, Boulevard Central, Downtown Dubai, Dubai",1 Bed,1 Bath,948 sqft,Muhammad Haris
+AED,"215,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,1 Bath,823 sqft,Nadeem Peer
+AED,"215,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,1 Bath,823 sqft,Waqas Ahmed
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,821 sqft,Waqas Ahmed
+AED,"250,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,905 sqft,Junaid Abbasi
+AED,"109,990",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Upper Crest (Burjside Terrace), Downtown Dubai, Dubai",1 Bed,2 Baths,901 sqft,Muhammad Tehmas
+AED,"67,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Geepas Tower, Arjan, Dubai",1 Bed,2 Baths,980 sqft,Zeeshan Akbar
+AED,"62,999",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Building 86, Mediterranean, Discovery Gardens, Dubai",1 Bed,2 Baths,881 sqft,Muhammad Zain Javed
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Residences 18, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,831 sqft,Malik Murad
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Euro Residence, Barsha Heights (Tecom), Dubai",1 Bed,2 Baths,825 sqft,Rana Hasnain
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Muroor Road, Al Muroor, Abu Dhabi",1 Bed,2 Baths,950 sqft,Muhammad Ehsan
+AED,"140,000",Yearly,Apartment,For Rent,Furnished,5 November 2023,"Downtown Views, Za'abeel 2, Za'abeel, Dubai",1 Bed,2 Baths,862 sqft,Ali Raza
+AED,"92,999",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"1 Residences Building 2, 1 Residences, Wasl 1, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,888 sqft,Murtza khan
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Blue Waves Tower, Dubai Residence Complex, Dubai",1 Bed,2 Baths,833 sqft,Moeen Yousaf
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,2 May 2023,"Al Waseem Residences, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,811 sqft,Ahsan Saeed
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Euro Residence, Barsha Heights (Tecom), Dubai",1 Bed,2 Baths,843 sqft,Muhammad Tehmas
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Reef Residence, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,926 sqft,Muhammad Saleem
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Abdulla Abdul Rasool Building, Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,800 sqft,Faisal Iqbal
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Blakely Tower, Park Island, Dubai Marina, Dubai",1 Bed,1 Bath,909 sqft,Ahmad Toor
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,8 May 2023,"Amna, Al Habtoor City, Business Bay, Dubai",1 Bed,2 Baths,809 sqft,Ruhaib Malik
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,917 sqft,Yasir Shakeel
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"The Address The Blvd, Downtown Dubai, Dubai",1 Bed,2 Baths,917 sqft,Asad Ch
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Al Shera Tower, JLT Cluster E, Jumeirah Lake Towers (JLT), Dubai",1 Bed,1 Bath,993 sqft,Richard Ngo
+AED,"43,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Majestic One, International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,832 sqft,AMR Yehia Mohamed Hassan
+AED,"130,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"South Ridge 4, South Ridge, Downtown Dubai, Dubai",1 Bed,2 Baths,985 sqft,Rana Asif
+AED,"150,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Banyan Tree Residences, Jumeirah Lake Towers (JLT), Dubai",1 Bed,2 Baths,930 sqft,Dania Hussain
+AED,"58,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Venus 1, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,850 sqft,Abdul Waheed
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,13 September 2023,"UTC Residence, Sheikh Zayed Road, Dubai",1 Bed,1 Bath,850 sqft,Mohammed Al Jawad Salman
+AED,"190,000",Yearly,Apartment,For Rent,Unfurnished,13 September 2023,"The Address Fountain Views 1, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,2 Baths,839 sqft,Mohammed Al Jawad Salman
+AED,"39,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Tourist Club Area (TCA), Abu Dhabi",1 Bed,1 Bath,900 sqft,Usama Janjua
+AED,"39,000",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Tourist Club Area (TCA), Abu Dhabi",1 Bed,1 Bath,900 sqft,Malek Hammouri
+AED,"29,999",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,940 sqft,Malek Hammouri
+AED,"29,999",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,940 sqft,Raza Muhammad
+AED,"86,603",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Burj Mohammed Bin Rashid - WTC, Al Markaziya, Abu Dhabi",1 Bed,2 Baths,800 sqft,Raza Muhammad
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"RAK Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,998 sqft,Musharaf Iqbal
+AED,"94,999",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Creek Rise 1 Tower, Creek Rise, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,820 sqft,Musharaf Iqbal
+AED,"94,999",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Creek Rise 1 Tower, Creek Rise, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,820 sqft,Ahmad Toor
+AED,"94,999",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Creek Rise 1 Tower, Creek Rise, Dubai Creek Harbour, Dubai",1 Bed,1 Bath,848 sqft,Richard Ngo
+AED,"28,999",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,915 sqft,Asad latif
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Murad Tower, Al Barsha 1, Al Barsha, Dubai",1 Bed,1 Bath,810 sqft,sajjad hussain
+AED,"34,999",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Al Taawun Street, Al Taawun, Sharjah",1 Bed,2 Baths,"1,000 sqft",Anna Kovtun
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Muwaileh, Sharjah",1 Bed,1 Bath,850 sqft,Shaheer Ul Hassan
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,16 October 2023,"RAK Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,875 sqft,Haneen Alsoulaiman
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Forte 1, Forte, Downtown Dubai, Dubai",1 Bed,1 Bath,846 sqft,Mohamad Tabish
+AED,"22,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Ramzan Arshad
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Khalifa City, Abu Dhabi",1 Bed,2 Baths,"1,000 sqft",Aleksandra Corneo
+AED,"25,900",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Majaz 3, Al Majaz, Sharjah",1 Bed,2 Baths,900 sqft,Malek Hammouri
+AED,"45,999",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Elite Sports Residence 4, Elite Sports Residence, Dubai Sports City, Dubai",1 Bed,2 Baths,889 sqft,Dounia El Adnani
+AED,"33,999",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Madinat Al Riyadh, Abu Dhabi",1 Bed,1 Bath,970 sqft,Malik Gohar
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Khalidiyah, Abu Dhabi",1 Bed,1 Bath,900 sqft,Sohel Ahmed
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Corniche Road, Abu Dhabi",1 Bed,1 Bath,868 sqft,Ahmad Toor
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"New Al Taawun Road, Al Taawun, Sharjah",1 Bed,1 Bath,900 sqft,Vijay Chhikara
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Danet Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,910 sqft,Haroon Nasir
+AED,"260,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,2 Baths,879 sqft,Asad Faiz
+AED,"74,999",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Oceanscape, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,964 sqft,Asad Faiz
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Saadiyat Beach Residences Block 1, Saadiyat Beach Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,Ahmad Toor
+AED,"68,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Saadiyat Beach Residences Block 1, Saadiyat Beach Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,Murtza khan
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,914 sqft,Murtza khan
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Al Seef, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Sudheer Babu
+AED,"44,999",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Airport Street, Abu Dhabi",1 Bed,1 Bath,800 sqft,Kashif Ranjha
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,896 sqft,Hassan Ali Khatak
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,896 sqft,Hamza Akram
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Sun Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,833 sqft,Awais Ali
+AED,"29,990",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,900 sqft,Saad Bin Abdul Aleem
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Al Rashidiya 3, Al Rashidiya, Ajman",1 Bed,2 Baths,966 sqft,mohamed yosry
+AED,"54,990",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,807 sqft,Mohamed Elhalawany
+AED,"29,996",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"New Al Taawun Road, Al Taawun, Sharjah",1 Bed,1 Bath,900 sqft,owais haider
+AED,"179,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"DAMAC Heights, Dubai Marina, Dubai",1 Bed,1 Bath,953 sqft,Ansar Mansha
+AED,"53,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Al Hamriya, Bur Dubai, Dubai",1 Bed,2 Baths,898 sqft,Ameer Hamza tariq
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Zeina, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Jahanzaib
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Wasl Village, Al Qusais Industrial 5, Al Qusais Industrial Area, Al Qusais, Dubai",1 Bed,2 Baths,800 sqft,Muhammad Shehroz Niazi
+AED,"27,999",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,950 sqft,Anna Kovtun
+AED,"53,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Oceanscape, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,905 sqft,Faizan Arshad
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Falah Street, Abu Dhabi",1 Bed,1 Bath,950 sqft,Bilal nawaz
+AED,"99,999",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Residences 5, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,960 sqft,Esmat Hamouda
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Jumeirah Garden City, Al Satwa, Dubai",1 Bed,2 Baths,806 sqft,Jahanzaib
+AED,"22,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Madinat Al Riyadh, Abu Dhabi",1 Bed,1 Bath,900 sqft,Arslan Khalil
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,960 sqft,Arslan Khalil
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,960 sqft,shahzad malik
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Madinat Al Riyadh, Abu Dhabi",1 Bed,1 Bath,900 sqft,shahzad malik
+AED,"29,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Madinat Al Riyadh, Abu Dhabi",1 Bed,1 Bath,900 sqft,Muhammad Sheri
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Marina Rise, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,840 sqft,Muhammad Sheri
+AED,"110,000",Yearly,Apartment,For Rent,Furnished,1 May 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Ashish Mahajan
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Mohammad Salaar
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Amwaj 1, Amwaj, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,895 sqft,Mohammad Salaar
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Amwaj 1, Amwaj, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,895 sqft,Usman Ali
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Usman Ali
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Bluebell  Residence, JVC District 11, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,841 sqft,Pushpa
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Amwaj 1, Amwaj, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,895 sqft,Arslan Khalil
+AED,"63,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Najmat C02 Tower, Najmat Towers, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,980 sqft,GEET
+AED,"35,000",Yearly,Apartment,For Rent,Furnished,6 November 2023,"Al Mamzar 1, Al Mamzar, Sharjah",1 Bed,2 Baths,999 sqft,Alice Tang
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Azizi Freesia, Al Furjan, Dubai",1 Bed,2 Baths,829 sqft,ALI ABBAS
+AED,"42,999",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Qubaisat, Al Mushrif, Abu Dhabi",1 Bed,1 Bath,800 sqft,owais haider
+AED,"53,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Shaibani 1 Building, Al Barsha 1, Al Barsha, Dubai",1 Bed,1 Bath,850 sqft,Muhammad Tehmas
+AED,"35,990",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Moon Tower 2, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,800 sqft,Mughees Qazi
+AED,"27,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"GGICO Building Muwailih, Muwailih Commercial, Sharjah",1 Bed,1 Bath,960 sqft,Asad Shabir
+AED,"26,980",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"GGICO Building Muwailih, Muwailih Commercial, Sharjah",1 Bed,1 Bath,917 sqft,Muhammad Adnan
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"GGICO Building Muwailih, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Hamza Akram
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"UTC Residence, Sheikh Zayed Road, Dubai",1 Bed,2 Baths,850 sqft,Laura Quezede
+AED,"57,999",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Marina Heights I, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,860 sqft,Haroon Nasir
+AED,"19,999",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Muwaileh, Sharjah",1 Bed,1 Bath,900 sqft,Hamza Akram
+AED,"31,990",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Nahda Towers, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Banaras Khan
+AED,"37,999",Yearly,Apartment,For Rent,Furnished,21 March 2023,"Wasl Village, Al Qusais Industrial 5, Al Qusais Industrial Area, Al Qusais, Dubai",1 Bed,1 Bath,810 sqft,Syed Muhammad Ovais
+AED,"36,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Zone 24, Mohammed Bin Zayed City, Abu Dhabi",1 Bed,1 Bath,850 sqft,Zaman Shahid
+AED,"145,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Orra Harbour Residences, Dubai Marina, Dubai",1 Bed,2 Baths,903 sqft,Zaman Shahid
+AED,"19,990",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Zaman Shahid
+AED,"19,990",Yearly,Apartment,For Rent,Unfurnished,13 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Islam Saeed
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,13 October 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,900 sqft,Islam Saeed
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,900 sqft,Shan Haider
+AED,"27,999",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"New Al Taawun Road, Al Taawun, Sharjah",1 Bed,2 Baths,830 sqft,Shan Haider
+AED,"27,999",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"New Al Taawun Road, Al Taawun, Sharjah",1 Bed,2 Baths,830 sqft,Usman Ali
+AED,"57,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Al Maha Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,926 sqft,Dounia El Adnani
+AED,"57,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Maha Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,926 sqft,Muhammad Usman
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,900 sqft,Muhammad Usman
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,900 sqft,Ala Odeh
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Al Shafar Palladium, Al Jaddaf, Dubai",1 Bed,2 Baths,800 sqft,Ala Odeh
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Shafar Palladium, Al Jaddaf, Dubai",1 Bed,2 Baths,800 sqft,Muhammad Rafique
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Najda Street, Abu Dhabi",1 Bed,1 Bath,950 sqft,Haseeb Ur Rehman
+AED,"60,900",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Seef, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,960 sqft,Mohsin
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Al Mankhool, Bur Dubai, Dubai",1 Bed,2 Baths,880 sqft,Douae Jediaa
+AED,"135,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Damac Maison Prive Tower B, DAMAC Maison Prive, Business Bay, Dubai",1 Bed,2 Baths,982 sqft,Ameer Rana
+AED,"23,970",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,990 sqft,Khawar Durrani
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Majaz 3, Al Majaz, Sharjah",1 Bed,2 Baths,"1,000 sqft",Mohamed Rafik Elkabany
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Nadd Al Hamar Building, Nad Al Hamar, Dubai",1 Bed,1 Bath,900 sqft,Abdul Rehman
+AED,"95,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Azizi Riviera 27, Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,1 Bath,822 sqft,Umar Muhammad Ilyas
+AED,"30,999",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Muwaileh, Sharjah",1 Bed,2 Baths,920 sqft,Hasnain Hazoor
+AED,"87,900",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Chaimaa Avenue 2, JVC District 13, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,800 sqft,Richard Ngo
+AED,"61,990",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Syann Park 1, Syann Park, Arjan, Dubai",1 Bed,2 Baths,900 sqft,Maha W. Hikmat
+AED,"43,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Airport Street, Abu Dhabi",1 Bed,1 Bath,850 sqft,Wakeel kamboh
+AED,"37,999",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Supreme Residency, Central Business District, International City, Dubai",1 Bed,2 Baths,800 sqft,Alex Eady
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Mohammed Bin Zayed City, Abu Dhabi",1 Bed,1 Bath,800 sqft,Merna Ezzat
+AED,"42,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,935 sqft,Vera Arum
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Sami Ullah
+AED,"32,995",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Juma Al Majid, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,950 sqft,Sami Ullah
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,1 Bath,940 sqft,Tofail Abbasi
+AED,"54,999",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"JVC District 17, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,"1,000 sqft",Tofail Abbasi
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Dahre Compound, Khalifa City, Abu Dhabi",1 Bed,1 Bath,"1,000 sqft",Faraz Ahmed
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Al Muroor, Abu Dhabi",1 Bed,1 Bath,950 sqft,Laura Quezede
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,4 May 2023,"Al Muroor, Abu Dhabi",1 Bed,1 Bath,950 sqft,Talha sarwar
+AED,"79,999",Yearly,Apartment,For Rent,Unfurnished,4 May 2023,"Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,2 Baths,900 sqft,Talha sarwar
+AED,"79,999",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,2 Baths,900 sqft,Arshad Shabbir
+AED,"38,000",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Al Muroor, Abu Dhabi",1 Bed,1 Bath,950 sqft,Arshad Shabbir
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Muroor, Abu Dhabi",1 Bed,1 Bath,950 sqft,Raffaque Hussain
+AED,"79,999",Yearly,Apartment,For Rent,Furnished,31 October 2023,"Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,2 Baths,900 sqft,Ahmed Ashour
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Taawun Street, Al Taawun, Sharjah",1 Bed,2 Baths,850 sqft,Hafiz Muhammad Mautsim
+AED,"34,000",Yearly,Apartment,For Rent,Furnished,5 November 2023,"Al Majaz 3, Al Majaz, Sharjah",1 Bed,2 Baths,"1,000 sqft",Vijayakumaran Nair
+AED,"29,990",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"New Al Taawun Road, Al Taawun, Sharjah",1 Bed,2 Baths,890 sqft,Muhammad Afzal
+AED,"40,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Tourist Club Area (TCA), Abu Dhabi",1 Bed,1 Bath,850 sqft,Nouman Saeed
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Shabiya 09, Mussafah Community, Mohammed Bin Zayed City, Abu Dhabi",1 Bed,2 Baths,900 sqft,Malik Sohail
+AED,"20,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Elie Al Sayegh
+AED,"40,999",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Shakhbout City, Abu Dhabi",1 Bed,1 Bath,979 sqft,Tassawar Abaas
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Cubic Building, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,889 sqft,NAVEED
+AED,"30,000",Yearly,Apartment,For Rent,Furnished,31 October 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,2 Baths,950 sqft,Vladimir Kovalchuk
+AED,"105,000",Yearly,Apartment,For Rent,Unfurnished,13 September 2023,"Residences 21, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,910 sqft,Al Ghurair Properties
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Taawun Street, Al Taawun, Sharjah",1 Bed,2 Baths,"1,000 sqft",Awais Arshad
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,1 Bath,980 sqft,Ahmed Talaat
+AED,"39,999",Yearly,Apartment,For Rent,Furnished,3 November 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,1 Bath,900 sqft,Ali Raza
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,2 Baths,900 sqft,Merna Ezzat
+AED,"63,000",Yearly,Apartment,For Rent,Furnished,1 November 2023,"Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,968 sqft,Naila Farman
+AED,"63,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,968 sqft,Khaled Shrem
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Bur Dubai, Dubai",1 Bed,2 Baths,800 sqft,Khaled Shrem
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Bur Dubai, Dubai",1 Bed,2 Baths,800 sqft,Ravi Kumar
+AED,"78,000",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Marina Heights II, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,860 sqft,Douae Jediaa
+AED,"78,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Marina Heights II, Marina Heights, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,860 sqft,Ayaz Ali
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Nada 2, Al Nada, Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,825 sqft,Ayaz Ali
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Nada 2, Al Nada, Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,825 sqft,Abdul Hafeez
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Al Nada 2, Al Nada, Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,825 sqft,Rao Afzal
+AED,"35,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Dahre Compound, Khalifa City, Abu Dhabi",1 Bed,1 Bath,"1,000 sqft",Haji Adeel Iqbal
+AED,"69,900",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Marina Bay By DAMAC, Najmat Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,MUHAMMAD JUNAID
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"City Tower, Al Nuaimiya 3, Al Nuaimiya, Ajman",1 Bed,2 Baths,800 sqft,Waseem Nawaz
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Azizi Riviera 33, Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,2 Baths,850 sqft,Hassan Khan
+AED,"54,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"JVC District 17, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,"1,000 sqft",Katrina Alvez
+AED,"41,999",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"MSH28, Shakhbout City, Abu Dhabi",1 Bed,1 Bath,950 sqft,Muhammad Sulaman
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,860 sqft,Mughees H Qazi
+AED,"24,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Barkhadan Alhasan
+AED,"19,999",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Muwaileh, Sharjah",1 Bed,1 Bath,850 sqft,Munaz Mangalore
+AED,"51,999",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Hydra Avenue Towers, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,944 sqft,Fida hussain
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Azizi Aliyah Residence, Al Jaddaf, Dubai",1 Bed,2 Baths,930 sqft,Waqas Shahid
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Naseem Residence A, Al Naseem, Al Bandar, Al Raha Beach, Abu Dhabi",1 Bed,1 Bath,894 sqft,Waqas Shahid
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Al Naseem Residence A, Al Naseem, Al Bandar, Al Raha Beach, Abu Dhabi",1 Bed,1 Bath,894 sqft,Pushpa
+AED,"84,999",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Qaryat Al HIDD, HIDD Al Saadiyat, Saadiyat Island, Abu Dhabi",1 Bed,3 Baths,846 sqft,Pushpa
+AED,"54,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Al Zeina Building E, Al Zeina, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,"1,000 sqft",Haroon Nasir
+AED,"74,999",Yearly,Apartment,For Rent,Unfurnished,4 August 2023,"Jumeirah Garden City, Al Satwa, Dubai",1 Bed,2 Baths,980 sqft,M. SAMI
+AED,"74,999",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Jumeirah Garden City, Al Satwa, Dubai",1 Bed,2 Baths,980 sqft,Abdul Jabbar
+AED,"18,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Rawda 2, Al Rawda, Ajman",1 Bed,2 Baths,900 sqft,Abdul Jabbar
+AED,"18,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Al Rawda 2, Al Rawda, Ajman",1 Bed,2 Baths,900 sqft,Dounia El Adnani
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,"1,000 sqft",Dounia El Adnani
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,"1,000 sqft",Abdul Rauf
+AED,"57,999",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,807 sqft,Abdul Rauf
+AED,"57,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,807 sqft,Zohaib Mazhar
+AED,"52,400",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Sea View Tower, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,820 sqft,Zohaib Mazhar
+AED,"52,400",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Sea View Tower, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,820 sqft,Saleem Akram
+AED,"34,000",Yearly,Apartment,For Rent,Furnished,3 November 2023,"Al Majaz 3, Al Majaz, Sharjah",1 Bed,2 Baths,950 sqft,Saleem Akram
+AED,"34,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Majaz 3, Al Majaz, Sharjah",1 Bed,2 Baths,950 sqft,Banaras Khan
+AED,"74,999",Yearly,Apartment,For Rent,Furnished,31 October 2023,"JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,900 sqft,Shihab
+AED,"74,990",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Arjan, Dubai",1 Bed,2 Baths,900 sqft,Ali Raza
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,"1,000 sqft",Trixy Jacosalem
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Amir Building, Arjan, Dubai",1 Bed,2 Baths,900 sqft,Zohaib Mazhar
+AED,"23,500",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,910 sqft,owais haider
+AED,"56,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,926 sqft,Qasim Ali
+AED,"33,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Safa Tower, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,850 sqft,Muhammad Ramzan
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Saif Belhasa, Barsha Heights (Tecom), Dubai",1 Bed,2 Baths,850 sqft,Bader Zaman
+AED,"35,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Shakhbout City, Abu Dhabi",1 Bed,1 Bath,890 sqft,Douae Jediaa
+AED,"45,990",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Douae Jediaa
+AED,"25,000",Yearly,Apartment,For Rent,Furnished,31 October 2023,"Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,875 sqft,Dilshad Begum
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Saadiyat St Regis Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,989 sqft,owais haider
+AED,"170,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Saadiyat St Regis Residences, Saadiyat Beach, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,989 sqft,Ahmed Abdel Khalik
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Residences 14, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,853 sqft,Ahmed Abdel Khalik
+AED,"26,500",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Shiba Al Nahda, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,950 sqft,Owais sheikh
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Al Jurf 3, Al Jurf, Ajman",1 Bed,2 Baths,950 sqft,Owais sheikh
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"Al Jurf 3, Al Jurf, Ajman",1 Bed,2 Baths,950 sqft,Elena Yurgeneva
+AED,"19,980",Yearly,Apartment,For Rent,Unfurnished,4 November 2023,"GGICO Building Muwailih, Muwailih Commercial, Sharjah",1 Bed,1 Bath,923 sqft,Elena Yurgeneva
+AED,"19,980",Yearly,Apartment,For Rent,Unfurnished,4 May 2023,"GGICO Building Muwailih, Muwailih Commercial, Sharjah",1 Bed,1 Bath,923 sqft,Sheikh iftikhar
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,4 May 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Sheikh iftikhar
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Rana Awais
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Abdul Hafeez
+AED,"35,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Al Taawun Street, Al Taawun, Sharjah",1 Bed,2 Baths,"1,000 sqft",Jacinto Salayo
+AED,"39,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Al Khalidiyah, Abu Dhabi",1 Bed,1 Bath,940 sqft,Muhammad Sohail
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"The Address Downtown Hotel (Lake Hotel), Downtown Dubai, Dubai",1 Bed,2 Baths,926 sqft,Anoj
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Sheikh Khalifa Bin Zayed Street, Abu Dhabi",1 Bed,1 Bath,875 sqft,Owais Nayemul
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Azizi Riviera 33, Azizi Riviera, Meydan One, Meydan City, Dubai",1 Bed,1 Bath,810 sqft,Abrar Ahmad
+AED,"54,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Hydra Avenue, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,944 sqft,Intikhab Alam
+AED,"29,998",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,950 sqft,Ahsan Ahmad
+AED,"140,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,939 sqft,Ahmad Raza Ashraf
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Hub Canal 1, Dubai Sports City, Dubai",1 Bed,2 Baths,826 sqft,Rizwan Haider
+AED,"19,500",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Fire Station Road, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Ahsan Sardar
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Ahsan Sardar
+AED,"59,999",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Barsha 1, Al Barsha, Dubai",1 Bed,2 Baths,800 sqft,Ahsan Sardar
+AED,"32,999",Yearly,Apartment,For Rent,Unfurnished,28 April 2023,"Al Tayer Building, Al Nahda (Sharjah), Sharjah",1 Bed,2 Baths,950 sqft,Arslan Akhtar
+AED,"53,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Reem Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,Hammad Ghouri
+AED,"20,999",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Hammad Ghouri
+AED,"20,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Aleem shari
+AED,"55,990",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Amaya Towers, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,Aleem shari
+AED,"24,995",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,920 sqft,Dounia El Adnani
+AED,"24,995",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,920 sqft,Muhammad Shaaban
+AED,"19,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Muhammad Shaaban
+AED,"19,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Costa Savva
+AED,"90,000",Yearly,Apartment,For Rent,Furnished,2 November 2023,"Clayton Residency, Business Bay, Dubai",1 Bed,2 Baths,809 sqft,Costa Savva
+AED,"90,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Clayton Residency, Business Bay, Dubai",1 Bed,2 Baths,809 sqft,Muhammad Farooq
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Corniche Area, Abu Dhabi",1 Bed,1 Bath,900 sqft,Muhammad Farooq
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Corniche Area, Abu Dhabi",1 Bed,1 Bath,900 sqft,mohand alsmry
+AED,"50,000",Yearly,Apartment,For Rent,Furnished,30 October 2023,"Corniche Area, Abu Dhabi",1 Bed,1 Bath,900 sqft,Saad Bin Abdul Aleem
+AED,"60,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Danet Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,865 sqft,Adnan Haider
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Marina Pearl, Dubai Marina, Dubai",1 Bed,2 Baths,957 sqft,Malik Sohail
+AED,"65,000",Yearly,Apartment,For Rent,Furnished,30 October 2023,"Aurion Residence, JVC District 10, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,810 sqft,Shabbir Munir
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,27 October 2023,"Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Sujit Mishra
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,3 May 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,923 sqft,Amer Gautham
+AED,"23,999",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,800 sqft,Aleksandra Corneo
+AED,"47,999",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Dubai Silicon Oasis (DSO), Dubai",1 Bed,2 Baths,900 sqft,ahmed shehata
+AED,"109,999",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,910 sqft,Yasir Bilal
+AED,"55,000",Yearly,Apartment,For Rent,Furnished,29 October 2023,"Baniyas, Abu Dhabi",1 Bed,2 Baths,949 sqft,Toufik
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Al Zarooni Building, Nad Al Hamar, Dubai",1 Bed,2 Baths,900 sqft,Rizwan Haider
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,930 sqft,Asim Soomro
+AED,"115,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,1 Bath,915 sqft,Asim Soomro
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Asim Soomro
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Sohaib Ahmad
+AED,"56,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Dana, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,900 sqft,Sohaib Ahmad
+AED,"56,000",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Al Dana, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,900 sqft,Abdul Hafeez
+AED,"39,500",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Ajmal Makan, Sharjah Waterfront City, Sharjah",1 Bed,2 Baths,"1,000 sqft",Abdul Hafeez
+AED,"46,999",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Al Qubaisat, Al Mushrif, Abu Dhabi",1 Bed,1 Bath,980 sqft,Hussain Asghar
+AED,"45,000",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Kahraman Building, Bab Al Bahr Residences, Al Marjan Island, Ras Al Khaimah",1 Bed,2 Baths,887 sqft,Hussain Asghar
+AED,"210,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"The Address Fountain Views 3, The Address Residence Fountain Views, Downtown Dubai, Dubai",1 Bed,1 Bath,842 sqft,Khurram Munir
+AED,"20,000",Yearly,Hotel Apartment,For Rent,Unfurnished,28 October 2023,"Al Rawda, Ajman",1 Bed,1 Bath,900 sqft,Kaleem Ullah
+AED,"39,999",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Muroor Road, Al Muroor, Abu Dhabi",1 Bed,1 Bath,800 sqft,Kaleem Ullah
+AED,"39,999",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Muroor Road, Al Muroor, Abu Dhabi",1 Bed,1 Bath,800 sqft,Kadir Khan
+AED,"245,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Th8, The Crescent, Palm Jumeirah, Dubai",1 Bed,2 Baths,947 sqft,Kadir Khan
+AED,"245,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Th8, The Crescent, Palm Jumeirah, Dubai",1 Bed,2 Baths,947 sqft,Riham Zahran
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Riham Zahran
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Mateen Sajjad
+AED,"18,995",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Hussain Asghar
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Electra Street, Abu Dhabi",1 Bed,2 Baths,950 sqft,Ali Gohar
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Madinat Al Riyadh, Abu Dhabi",1 Bed,1 Bath,850 sqft,Muhammad Arif
+AED,"55,990",Yearly,Apartment,For Rent,Furnished,30 August 2023,"Amaya Towers, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,950 sqft,Hasina Khan
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"S-08, Spain Cluster, International City, Dubai",1 Bed,2 Baths,937 sqft,Douae Jediaa
+AED,"134,888",Yearly,Apartment,For Rent,Unfurnished,28 October 2023,"Eastern Mangrove Promenade, Eastern Mangroves Complex, Al Zahraa, Abu Dhabi",1 Bed,2 Baths,950 sqft,Zain Haider
+AED,"24,999",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,904 sqft,Owais sheikh
+AED,"120,000",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Millennium Atria, The Atria, Business Bay, Dubai",1 Bed,1 Bath,821 sqft,Hussain Asghar
+AED,"34,990",Yearly,Apartment,For Rent,Furnished,27 October 2023,"Al Nahda 2, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,900 sqft,Hussain Asghar
+AED,"38,000",Yearly,Apartment,For Rent,Furnished,24 October 2023,"Shabiya 12, Mussafah Community, Mohammed Bin Zayed City, Abu Dhabi",1 Bed,1 Bath,800 sqft,Saad Bin Abdul Aleem
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Tower A, DAMAC Towers by Paramount Hotels and Resorts, Business Bay, Dubai",1 Bed,2 Baths,940 sqft,Mohamad Naddi
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Waves Grande, Sobha Hartland, Dubai",1 Bed,2 Baths,915 sqft,Waqar Aslam
+AED,"144,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Hyati Avenue, JVC District 14, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,900 sqft,Waqar Aslam
+AED,"19,500",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,880 sqft,Haseeb Ur Rehman
+AED,"19,500",Yearly,Apartment,For Rent,Unfurnished,7 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,880 sqft,Anna Kovtun
+AED,"65,000",Yearly,Apartment,For Rent,Furnished,31 October 2023,"Al Zeina, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Samarth Patel
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Zeina, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Allane Abainza
+AED,"79,999",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"The Gate Tower 1, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,900 sqft,Allane Abainza
+AED,"79,999",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"The Gate Tower 1, The Gate Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,900 sqft,Malik Murad
+AED,"99,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Al Barza, Al Bandar, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,981 sqft,Malik Murad
+AED,"94,999",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Barza, Al Bandar, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,900 sqft,Hasan Dil Khan
+AED,"25,999",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Safa Tower, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,950 sqft,Hasan Dil Khan
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,980 sqft,owais haider
+AED,"33,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Rahba, Abu Dhabi",1 Bed,1 Bath,950 sqft,owais haider
+AED,"52,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,1 Bath,900 sqft,Nada Khateeb
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,950 sqft,Nada Khateeb
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,2 Baths,950 sqft,Bilal Ashraf
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Muwaileh, Sharjah",1 Bed,2 Baths,850 sqft,Bilal Ashraf
+AED,"24,000",Yearly,Apartment,For Rent,Furnished,26 October 2023,"Muwaileh, Sharjah",1 Bed,2 Baths,850 sqft,Azam
+AED,"23,500",Yearly,Apartment,For Rent,Furnished,26 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Azam
+AED,"23,500",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Bilal Ashraf
+AED,"46,999",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Ajmal Makan, Sharjah Waterfront City, Sharjah",1 Bed,2 Baths,"1,000 sqft",Bilal Ashraf
+AED,"33,000",Yearly,Apartment,For Rent,Furnished,26 October 2023,"Sarab Community, Aljada, Sharjah",1 Bed,2 Baths,"1,000 sqft",Azam
+AED,"19,999",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Muwaileh, Sharjah",1 Bed,1 Bath,900 sqft,Ashish Singla
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Sufouh 1, Al Sufouh, Dubai",1 Bed,2 Baths,800 sqft,Owais sheikh
+AED,"53,550",Yearly,Apartment,For Rent,Unfurnished,27 October 2023,"Al Seef, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,900 sqft,Nidhi Chandy
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,27 October 2023,"Al Barsha 1, Al Barsha, Dubai",1 Bed,2 Baths,"1,000 sqft",Sajjad Ali
+AED,"65,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"Al Yousuf Towers, JVC District 12, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,903 sqft,Hassan Ali Khatak
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Stadium Point, Dubai Sports City, Dubai",1 Bed,2 Baths,931 sqft,Luz Myriam Gomez
+AED,"39,000",Yearly,Apartment,For Rent,Unfurnished,22 October 2023,"Delma Street, Al Mushrif, Abu Dhabi",1 Bed,1 Bath,999 sqft,Amjad Dewaan
+AED,"34,000",Yearly,Apartment,For Rent,Furnished,23 October 2023,"Baniyas East, Baniyas, Abu Dhabi",1 Bed,1 Bath,970 sqft,Aafaq
+AED,"49,890",Yearly,Apartment,For Rent,Unfurnished,3 November 2023,"Sigma Tower 2, Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,810 sqft,Shunaid Ahmed Qureshi
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,16 October 2023,"Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,"1,000 sqft",Shahid Ali
+AED,"109,999",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Residences 16, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,980 sqft,Shahid Donny
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,24 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Shahid Donny
+AED,"70,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"European, Canal Residence West, Dubai Sports City, Dubai",1 Bed,2 Baths,911 sqft,Umair ali Safdar
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"Oceanscape, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,920 sqft,Umair ali Safdar
+AED,"46,000",Yearly,Apartment,For Rent,Unfurnished,11 October 2023,"Al Warqaa 1, Al Warqaa, Dubai",1 Bed,2 Baths,950 sqft,Arooj Ayaz
+AED,"150,000",Yearly,Apartment,For Rent,Unfurnished,8 October 2023,"Nassima Tower, Sheikh Zayed Road, Dubai",1 Bed,1 Bath,968 sqft,Talat Mehmood Abbasi
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,8 October 2023,"Oud Metha, Bur Dubai, Dubai",1 Bed,1 Bath,850 sqft,Talat Mehmood Abbasi
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Al Rawda 3, Al Rawda, Ajman",1 Bed,1 Bath,900 sqft,Riham Zahran
+AED,"21,500",Yearly,Apartment,For Rent,Unfurnished,1 October 2023,"Fire Station Road, Muwailih Commercial, Sharjah",1 Bed,1 Bath,890 sqft,Raees Ali
+AED,"18,500",Yearly,Apartment,For Rent,Unfurnished,22 September 2023,"Moosani Tower, Al Nuaimiya 2, Al Nuaimiya, Ajman",1 Bed,2 Baths,850 sqft,Muhammad Zaman
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,9 October 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,1 Bath,800 sqft,Syed Muhammad Ovais
+AED,"85,000",Yearly,Apartment,For Rent,Furnished,4 November 2023,"Al Dana, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,950 sqft,Afshan William
+AED,"17,000",Yearly,Apartment,For Rent,Unfurnished,22 August 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Hamid Majeed Butt
+AED,"25,000",Yearly,Apartment,For Rent,Furnished,17 August 2023,"Muwaileh, Sharjah",1 Bed,2 Baths,990 sqft,Sofia Purgina
+AED,"25,000",Yearly,Apartment,For Rent,Furnished,17 August 2023,"Muwaileh, Sharjah",1 Bed,2 Baths,990 sqft,Saqlain Ahmed
+AED,"39,999",Yearly,Apartment,For Rent,Furnished,17 August 2023,"Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,959 sqft,Saqlain Ahmed
+AED,"39,999",Yearly,Apartment,For Rent,Unfurnished,17 August 2023,"Al Nahda 1, Al Nahda (Dubai), Dubai",1 Bed,2 Baths,959 sqft,Saqlain Ahmed
+AED,"22,499",Yearly,Apartment,For Rent,Unfurnished,17 August 2023,"Muwaileh Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,909 sqft,Saqlain Ahmed
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,20 April 2023,"Julphar Residence, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,831 sqft,Usman Ebaad
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Al Musalla, Sharjah",1 Bed,1 Bath,"1,000 sqft",Munir ALi
+AED,"63,000",Yearly,Apartment,For Rent,Unfurnished,10 October 2023,"Rawdhat Abu Dhabi, Abu Dhabi",1 Bed,2 Baths,968 sqft,Rafiq Karim
+AED,"78,000",Yearly,Apartment,For Rent,Unfurnished,6 October 2023,"Al Nada 1, Al Nada, Al Muneera, Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,885 sqft,Iram Shahadi
+AED,"23,000",Yearly,Apartment,For Rent,Unfurnished,13 October 2023,"Al Jurf 3, Al Jurf, Ajman",1 Bed,2 Baths,"1,000 sqft",M Hafeez
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Hannah Bakshani
+AED,"45,000",Yearly,Apartment,For Rent,Furnished,4 October 2023,"Al Muroor, Abu Dhabi",1 Bed,2 Baths,900 sqft,Qian Ran
+AED,"52,999",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Marina Bay, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,900 sqft,Bobby Bakshani
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,18 May 2023,"Al Falah Street, Abu Dhabi",1 Bed,1 Bath,"1,000 sqft",Muhammad Tufail
+AED,"57,000",Yearly,Apartment,For Rent,Unfurnished,26 May 2023,"Jigsaw Nursery, Al Rawdah, Abu Dhabi",1 Bed,2 Baths,900 sqft,HAFIZ TAYYAB
+AED,"80,000",Yearly,Apartment,For Rent,Unfurnished,4 September 2023,"Tower 108, JVC District 18, Jumeirah Village Circle (JVC), Dubai",1 Bed,2 Baths,942 sqft,Trixy Jacosalem
+AED,"41,250",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Mussafah Gardens, Mussafah, Abu Dhabi",1 Bed,2 Baths,850 sqft,Salik
+AED,"95,249",Yearly,Apartment,For Rent,Unfurnished,6 June 2023,"Gulf Oasis Hotel Apartments, Barsha Heights (Tecom), Dubai",1 Bed,2 Baths,850 sqft,Naeem Butt
+AED,"55,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Al Qusais Residential Area, Al Qusais, Dubai",1 Bed,2 Baths,990 sqft,Malik Babar Nawaz
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,900 sqft,Asif Rehman
+AED,"56,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Raha Beach, Abu Dhabi",1 Bed,2 Baths,979 sqft,Hassan Ali
+AED,"47,999",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"International City Phase 2 (Warsan 4), International City, Dubai",1 Bed,2 Baths,950 sqft,Malik Babar Nawaz
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,15 October 2023,"Lavender Gardens Suites, Al Sufouh 1, Al Sufouh, Dubai",1 Bed,2 Baths,800 sqft,Nasrullah
+AED,"62,000",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"Soho Square Residences, Soho Square, Saadiyat Island, Abu Dhabi",1 Bed,2 Baths,849 sqft,Lisa Lomugdang
+AED,"58,000",Yearly,Apartment,For Rent,Unfurnished,14 September 2023,"Dubai Silicon Oasis (DSO), Dubai",1 Bed,2 Baths,850 sqft,yahia
+AED,"110,000",Yearly,Apartment,For Rent,Unfurnished,22 August 2023,"Residences 21, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,860 sqft,Nilsa Baragona
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,17 June 2023,"Ewan 3, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,800 sqft,Zeeshan Ahmad
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Residences 15, The Residences at District One, District One, Mohammed Bin Rashid City, Dubai",1 Bed,2 Baths,850 sqft,Nada Khateeb
+AED,"36,998",Yearly,Apartment,For Rent,Unfurnished,23 October 2023,"Wasl Village, Al Qusais Industrial 5, Al Qusais Industrial Area, Al Qusais, Dubai",1 Bed,1 Bath,800 sqft,Nada Khateeb
+AED,"125,000",Yearly,Apartment,For Rent,Unfurnished,25 October 2023,"Park Gate Residence A, Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,1 Bath,987 sqft,Shahid Ali
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,2 July 2023,"Al Falah Street, Abu Dhabi",1 Bed,1 Bath,"1,000 sqft",SAYED KHALED
+AED,"56,000",Yearly,Apartment,For Rent,Unfurnished,30 March 2023,"The Gate Residence 2, Dubai Residence Complex, Dubai",1 Bed,2 Baths,870 sqft,Farhan Shaukat
+AED,"37,000",Yearly,Apartment,For Rent,Unfurnished,23 May 2023,"Misk Apartments, Aljada, Sharjah",1 Bed,2 Baths,850 sqft,Deyaar Property Management
+AED,"41,000",Yearly,Apartment,For Rent,Unfurnished,18 October 2023,"Defence Street, Abu Dhabi",1 Bed,1 Bath,"1,000 sqft",Waqar Aslam
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,28 September 2023,"Al Barsha 1, Al Barsha, Dubai",1 Bed,2 Baths,800 sqft,Nada Khateeb
+AED,"24,999",Yearly,Apartment,For Rent,Unfurnished,9 August 2023,"Al Nahda House, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,900 sqft,Imran Abdul Kareem
+AED,"24,999",Yearly,Apartment,For Rent,Unfurnished,24 August 2023,"Al Nahda House, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,900 sqft,Sikender Shaik
+AED,"24,999",Yearly,Apartment,For Rent,Unfurnished,18 May 2023,"Al Nahda House, Al Nahda (Sharjah), Sharjah",1 Bed,1 Bath,900 sqft,Sikender Shaik
+AED,"74,900",Yearly,Apartment,For Rent,Unfurnished,18 May 2023,"The Corner, Arjan, Dubai",1 Bed,2 Baths,"1,000 sqft",Sikender Shaik
+AED,"74,900",Yearly,Apartment,For Rent,Unfurnished,18 May 2023,"The Corner, Arjan, Dubai",1 Bed,2 Baths,"1,000 sqft",Imran Abdul Kareem
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,18 May 2023,"Fire Station Road, Muwailih Commercial, Sharjah",1 Bed,1 Bath,850 sqft,Imran Abdul Kareem
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,20 May 2023,"Electra Street, Abu Dhabi",1 Bed,1 Bath,900 sqft,Mahar Ali Shah
+AED,"18,000",Yearly,Apartment,For Rent,Unfurnished,31 October 2023,"Goldcrest Dream Towers, Emirates City, Ajman",1 Bed,2 Baths,971 sqft,MUHAMMAD AHMAD
+AED,"81,900",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Corniche Area, Abu Dhabi",1 Bed,2 Baths,861 sqft,Zeeshan Taj
+AED,"85,000",Yearly,Apartment,For Rent,Unfurnished,10 November 2023,"Marina Pearl, Dubai Marina, Dubai",1 Bed,2 Baths,958 sqft,Muhammed Shahid
+AED,"22,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",1 Bed,1 Bath,890 sqft,Nayyer Abbas
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Liwara 1, Ajman",1 Bed,1 Bath,900 sqft,Shahryar Sandhu
+AED,"134,990",Yearly,Apartment,For Rent,Unfurnished,29 October 2023,"Maze Tower, Sheikh Zayed Road, Dubai",1 Bed,2 Baths,820 sqft,Rana Awais
+AED,"120,000",Yearly,Apartment,For Rent,Unfurnished,26 October 2023,"The Lofts East, The Lofts, Downtown Dubai, Dubai",1 Bed,2 Baths,916 sqft,mussab fatah
+AED,"63,000",Yearly,Apartment,For Rent,Unfurnished,21 October 2023,"The ARC, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,920 sqft,Aman Ullah
+AED,"63,000",Yearly,Apartment,For Rent,Unfurnished,22 October 2023,"The ARC, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,920 sqft,Muhammad Sheri
+AED,"64,999",Yearly,Apartment,For Rent,Unfurnished,19 October 2023,"The Residence Central Park, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,895 sqft,Muhammad junaid
+AED,"127,000",Yearly,Apartment,For Rent,Unfurnished,12 October 2023,"Park Gate Residence, Al Kifaf, Bur Dubai, Dubai",1 Bed,2 Baths,844 sqft,Faizaad Rabbani
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,27 September 2023,"Muwailih Commercial, Sharjah",1 Bed,2 Baths,900 sqft,Aman Ullah
+AED,"35,000",Yearly,Apartment,For Rent,Unfurnished,3 October 2023,"Al Muwaiji, Al Ain",1 Bed,2 Baths,900 sqft,Fatima
+AED,"57,999",Yearly,Apartment,For Rent,Unfurnished,24 September 2023,"Marina Blue Tower, Marina Square, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,913 sqft,Syed Mazher Hussain
+AED,"33,999",Yearly,Apartment,For Rent,Unfurnished,24 September 2023,"Al Zahia, Muwaileh, Sharjah",1 Bed,2 Baths,"1,000 sqft",Syed Mazher Hussain
+AED,"69,983",Yearly,Apartment,For Rent,Unfurnished,14 September 2023,"Sun Tower, Shams Gate District, Shams Abu Dhabi, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,900 sqft,Muhammad Muzammal  Arshad
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,17 September 2023,"23 Marina, Dubai Marina, Dubai",1 Bed,2 Baths,940 sqft,Abdulla Chaar
+AED,"84,998",Yearly,Apartment,For Rent,Unfurnished,17 September 2023,"Elite Business Bay Residence, Business Bay, Dubai",1 Bed,2 Baths,934 sqft,Abdulla Chaar
+AED,"84,998",Yearly,Apartment,For Rent,Unfurnished,18 September 2023,"Elite Business Bay Residence, Business Bay, Dubai",1 Bed,2 Baths,934 sqft,Muhammad Usama
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,23 September 2023,"Southwest Apartments, Green Community West, Green Community, Dubai",1 Bed,2 Baths,932 sqft,Ednalyin Navarro
+AED,"75,000",Yearly,Apartment,For Rent,Unfurnished,13 September 2023,"Southwest Apartments, Green Community West, Green Community, Dubai",1 Bed,2 Baths,932 sqft,Ahmed Shawky
+AED,"50,410",Yearly,Apartment,For Rent,Unfurnished,21 September 2023,"Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,800 sqft,Sobia Naveed
+AED,"50,410",Yearly,Apartment,For Rent,Unfurnished,12 September 2023,"Sigma Towers, City of Lights, Al Reem Island, Abu Dhabi",1 Bed,2 Baths,800 sqft,Ahmed Tarek Ghazala
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,12 September 2023,"Shaq 1 Building, Al Qasimia, Sharjah",2 Beds,2 Baths,"1,000 sqft",Ahmed Tarek Ghazala
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,3 September 2023,"Shaq 1 Building, Al Qasimia, Sharjah",2 Beds,2 Baths,"1,000 sqft",Haseeb Ur Rehman
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,3 September 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",2 Beds,1 Bath,"1,000 sqft",Haseeb Ur Rehman
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,24 September 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",2 Beds,1 Bath,"1,000 sqft",Arslan Akhar
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,24 September 2023,"Al Batool Tower, Al Nahda (Sharjah), Sharjah",2 Beds,1 Bath,850 sqft,Arslan Akhar
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,6 November 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",2 Beds,1 Bath,"1,000 sqft",Zain ul Abideen
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Kubra Tower, Al Nahda (Sharjah), Sharjah",2 Beds,1 Bath,"1,000 sqft",sara saeed
+AED,"48,000",Yearly,Apartment,For Rent,Unfurnished,1 November 2023,"Al Khalidiyah, Abu Dhabi",2 Beds,2 Baths,950 sqft,sara saeed
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"New Al Taawun Road, Al Taawun, Sharjah",2 Beds,1 Bath,950 sqft,Muhammad Jibran
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,30 October 2023,"Al Dhait South, Al Dhait, Ras Al Khaimah",2 Beds,3 Baths,918 sqft,Muhammad Jibran
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"World Trade Centre, Al Markaziya, Abu Dhabi",2 Beds,2 Baths,949 sqft,sara saeed
+AED,"40,000",Yearly,Apartment,For Rent,Unfurnished,7 September 2023,"Al Salam Street, Abu Dhabi",2 Beds,2 Baths,900 sqft,Badharudheen Mulla Veettil
+AED,"28,000",Yearly,Apartment,For Rent,Unfurnished,10 March 2023,"Al Qasimia, Sharjah",2 Beds,2 Baths,"1,000 sqft",Badharudheen Mulla Veettil
+AED,"30,000",Yearly,Apartment,For Rent,Unfurnished,10 March 2023,"Al Rahba, Abu Dhabi",2 Beds,1 Bath,"1,000 sqft",Badharudheen Mulla Veettil
+AED,"25,999",Yearly,Apartment,For Rent,Unfurnished,5 November 2023,"Al Mowaihat 2, Al Mowaihat, Ajman",2 Beds,2 Baths,930 sqft,sara saeed
+AED,"45,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Prime Residence 2, Prime Residence, Spain Cluster, International City, Dubai",2 Beds,2 Baths,995 sqft,sara saeed
+AED,"21,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Bottle Building, Abu Shagara, Sharjah",2 Beds,2 Baths,"1,000 sqft",sara saeed
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,8 August 2023,"Madinat Zayed, Abu Dhabi",2 Beds,2 Baths,913 sqft,Jeri Cristine
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,8 November 2023,"Ewan 3, Al Nahda (Sharjah), Sharjah",2 Beds,2 Baths,"1,000 sqft",magdy
+AED,"43,775",Yearly,Apartment,For Rent,Unfurnished,23 June 2023,"China Cluster, International City, Dubai",2 Beds,2 Baths,915 sqft,Franco Joseph Emmatty
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,6 July 2023,"Al Mahatah, Sharjah",2 Beds,2 Baths,"1,000 sqft",Rohan Kasid
+AED,"42,000",Yearly,Apartment,For Rent,Unfurnished,11 June 2023,"Baniyas, Abu Dhabi",2 Beds,2 Baths,900 sqft,Waleed Mohamed Ali
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,24 June 2023,"Al Mahatah, Sharjah",2 Beds,2 Baths,"1,000 sqft",Raja MUREED UL ISLAM JANJUA
+AED,"20,500",Yearly,Apartment,For Rent,Unfurnished,16 October 2023,"New Al Taawun Road, Al Taawun, Sharjah",2 Beds,1 Bath,900 sqft,Muhammad Salman
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,15 October 2023,"Ewan 3, Al Nahda (Sharjah), Sharjah",2 Beds,2 Baths,"1,000 sqft",shihab osman amin
+AED,"24,000",Yearly,Apartment,For Rent,Unfurnished,29 May 2023,"Rolla Square, Rolla Area, Sharjah",2 Beds,2 Baths,"1,000 sqft",Badharudheen Mulla Veettil
+AED,"20,000",Yearly,Apartment,For Rent,Unfurnished,29 May 2023,"Rolla Square, Rolla Area, Sharjah",2 Beds,2 Baths,"1,000 sqft",Abdelhamed Mohamed
+AED,"25,000",Yearly,Apartment,For Rent,Unfurnished,17 August 2023,"Al Qasimia Building, Al Qasimia, Sharjah",2 Beds,2 Baths,900 sqft,Amgad Nashat
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,17 August 2023,"Al Muroor, Abu Dhabi",2 Beds,2 Baths,900 sqft,Amgad Nashat
+AED,"38,000",Yearly,Apartment,For Rent,Unfurnished,8 August 2023,"Al Jawzaa Block A, Al Jawzaa, International City Phase 2 (Warsan 4), International City, Dubai",2 Beds,2 Baths,"1,000 sqft",Jeri Cristine
+AED,"22,000",Yearly,Apartment,For Rent,Unfurnished,19 July 2023,"Al Salamah, Umm Al Quwain",2 Beds,2 Baths,900 sqft,Thomas Kuttikattu Lazar
+AED,"37,000",Yearly,Apartment,For Rent,Unfurnished,17 March 2021,"Al Jurf 3, Al Jurf, Ajman",2 Beds,2 Baths,"1,000 sqft",Nakheel Communities
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,7 November 2021,"Muwaileh 3 Building, Muwailih Commercial, Sharjah",2 Beds,2 Baths,860 sqft,Nakheel Communities
+AED,"32,000",Yearly,Apartment,For Rent,Unfurnished,9 November 2023,"Al Qasimia, Sharjah",2 Beds,3 Baths,950 sqft,Wasl Leasing
+AED,"50,000",Yearly,Apartment,For Rent,Unfurnished,2 November 2023,"Mohamed Bin Zayed Centre, Mohammed Bin Zayed City, Abu Dhabi",2 Beds,1 Bath,800 sqft,Abdul Hafeez
